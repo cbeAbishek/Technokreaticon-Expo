@@ -2,7 +2,7 @@ import { initializeApp } from "firebase/app";
 import { getAnalytics } from "firebase/analytics";
 import { getAuth } from "firebase/auth";
 const firebaseConfig = {
-  apiKey: "AIzaSyBOrQXy8UA0Qm2bwpXngf54P85gVc-pChM",
+  apiKey: "",
   authDomain: "hackatank-1834c.firebaseapp.com",
   projectId: "hackatank-1834c",
   storageBucket: "hackatank-1834c.appspot.com",
