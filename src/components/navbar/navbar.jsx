@@ -53,7 +53,7 @@ const Navbar = () => {
       action: "click",
       label: "register",
     });
-    window.open("https://forms.gle/mqHSf1kpoTUiMURH6");
+    window.open("#");
   };
   const handleScroll = (id) => {
     ReactGA.event({
@@ -88,7 +88,7 @@ const Navbar = () => {
         <div className="components">
           <div className="title" onClick={() => window.open("/", "_self")}>
             <img src="/images/diamond.webp" className="logo" alt="Logo" />
-            Hackathon
+            Technokreaticon
             <div className="socials">
               <div className="insta">
                 <SocialIcon

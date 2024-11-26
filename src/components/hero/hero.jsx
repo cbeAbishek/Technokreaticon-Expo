@@ -101,10 +101,9 @@ const hero = () => {
           />
           <div className="tag">
             <div>
-              <div>Celebrating 25</div>
-              <span>th</span>
+              <div>PPG</div>
             </div>
-            Foundation Day of SRMVEC
+            Institute of Technology
           </div>
           <img
             src="/images/srmvec.webp"
@@ -120,13 +119,13 @@ const hero = () => {
             <div className="curve"></div>
 
             <div className="title1">
-              <span className="hackathon"> {"Hack - A - Tank"}</span>
+              <span className="hackathon"> {"Techno-KreatiCon"}</span>
               <br />
               {/* <p className="tag1"> A National Level 24 Hour Hackathon</p> */}
               {/* <span className="hackathon">Hackathon</span> */}
               <p className="description">
-                National <span> Level 24 hour Hackathon </span>
-                showcasing innovative solutions
+                National <span> Level Project Expo </span>
+                showcasing innovative solutions 
                 <br /> and tech talents from across the country
               </p>
             </div>
@@ -177,7 +176,7 @@ const hero = () => {
                   <div>
                     <div> 8</div> <div> th</div>{" "}
                   </div>{" "}
-                  September
+                  March
                 </div>
                 <Calender className="calender-icon" />
               </h3>
@@ -208,13 +207,13 @@ const hero = () => {
             {/* -------------------------- Column 3 * ---------------------------------- */}
             <div className="col3 animated-div">
               <div className="flex justify-items-start">
-                <h3 className="text7">Problem Statements</h3>
+                <h3 className="text7">Project Category</h3>
               </div>
               <p className="text8" onClick={() => handleCardClicks("/set1")}>
-                Collection 1 <ArrowRightBlack className="arrow-right-icon" />
+              Business Model <ArrowRightBlack className="arrow-right-icon" />
               </p>
               <p className="text9" onClick={() => handleCardClicks("/set2")}>
-                Collection 2 <ArrowRightBlack className="arrow-right-icon" />
+              Innovation Model <ArrowRightBlack className="arrow-right-icon" />
               </p>
             </div>
             {/* -------------------------- Column 4  ---------------------------------- */}
@@ -229,7 +228,7 @@ const hero = () => {
               </h3>
               <div className="flex flex-col ">
                 <p className="text-white pt-[2vh] text-[1vw] venue-text-mobile">
-                  SRM Valliammai Engineering College
+                  PPG Insitute of Technology, Coimbatore
                 </p>
                 {/* <p className="text-white  text-[0.8vw] ">
                   National Highway 45, Potheri, SRM Nagar, Kattankulathur, Tamil
@@ -247,8 +246,8 @@ const hero = () => {
                 <div className="flex justify-center items-center gap-1"></div>
               </h3>
               <div className="flex items-start justify-between flex-col">
-                <p className="text14">SRMVEC CSI Student Branch </p>
-                <p className="text15">Whitehatians Cyber Club - VEC</p>
+                <p className="text14">PPGIT CSE Students </p>
+                <p className="text15">CyberZen Club</p>
                 <div className="round2"></div>
               </div>
             </div>
