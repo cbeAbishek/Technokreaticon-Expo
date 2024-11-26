@@ -11,12 +11,8 @@ const Login = () => {
   const [user] = useAuthState(auth);
   const google = new GoogleAuthProvider();
   const verifiedMails = [
-    "raghavcybe@gmail.com",
-    "killerkishore474@gmail.com",
-    "random0120003@gmail.com",
-    "thelinuxsec@gmail.com",
-    "yenshree@gmail.com",
-    "prorahul555@gmail.com",
+    "agsabhishek1905@gmail.com",
+    ,
   ];
   const [notVerified, setNotVerified] = useState(false);
 
