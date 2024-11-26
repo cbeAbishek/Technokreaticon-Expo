@@ -9,4 +9,5 @@ export default defineConfig({
       svgrOptions: {},
     }),
   ],
+  base:"/vite-reacr-deploy/",
 });
