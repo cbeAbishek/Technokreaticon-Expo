@@ -96,7 +96,7 @@ const hero = () => {
           <img
             src="/images/srm.webp"
             alt="srm logo"
-            width="40vw"
+            width="60vw"
             className="hero-srm-logo"
           />
           <div className="tag">

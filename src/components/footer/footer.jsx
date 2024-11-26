@@ -10,12 +10,11 @@ const footer = () => {
     <React.Fragment>
       <div className="parent-footer">
         <p className="copyright">
-          Copyrights
-          <Copyright className="copyright-icon" />
-          2024-2025 - {"All Rights Reserved."}
+          TechnokreatiCon - {"Keep Rocking"}
         </p>
         <p className="copyright">
-          Developed & Maintained by <p onClick={developedBy}>shadowctrl</p>
+        {/* onClick={developedBy} */}
+           <p>Organized By CyberZen</p>
         </p>
       </div>
     </React.Fragment>
