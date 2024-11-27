@@ -220,7 +220,7 @@ const hero = () => {
             <div
               className="col4 animated-div"
               onClick={() =>
-                window.open("https://goo.gl/maps/iaE4Kko8wqqHs4jx9")
+                window.open("https://maps.app.goo.gl/S9eZiMfBYnCH7SVc7")
               }
             >
               <h3 className="text10">
