@@ -255,7 +255,7 @@ const hero = () => {
         </section>
         {/* -------------------------- Page 2 -------------------------- */}
       </div>
-      <Agenda />
+      {/* <Agenda /> */}
       <div className="bg-sep"></div>
       <Schedule />
       <div className="bg-sep"></div>
