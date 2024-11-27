@@ -100,10 +100,8 @@ const hero = () => {
             className="hero-srm-logo"
           />
           <div className="tag">
-            <div>
-              <div>PPG</div>
-            </div>
-            Institute of Technology
+            
+              PPG Institute of Technology
           </div>
           <img
             src="/images/srmvec.webp"
