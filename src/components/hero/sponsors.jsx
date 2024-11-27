@@ -15,14 +15,14 @@ const sponsors = () => {
         </h1>
         <div className="sponsors-container">
           <div className="sponsors-border">
-            <div>
+            {/* <div>
               <img src="/images/hebesec.webp" alt="Hebesec Technologies" />
-            </div>
+            </div> */}
             <div className="sponsors-container-sub">
               <h1 className="sponsor-title">
-                <a href="https://hebesec.com/" target="_blank">
+                <a href="#" target="_blank">
                   {" "}
-                  Hebesec Technologies{" "}
+                  Searching For Sponsors{" "}
                 </a>
               </h1>
             </div>{" "}
