@@ -116,7 +116,7 @@
   position: absolute;
   background-color: rgb(0, 0, 0, 0.5);
   border-radius: 1vw;
-  backdrop-filter: blur(0.5vw);
+  /* backdrop-filter: blur(0.5vw); */
   width: 100%;
   bottom: -17vh;
   display: flex;
@@ -188,7 +188,7 @@
   position: absolute;
   inset: 0;
   z-index: -1;
-  backdrop-filter: blur(1vw);
+  /* backdrop-filter: blur(1vw); */
   background-color: rgb(0, 0, 0, 0.5);
 }
 @media all and (max-width: 768px) and (max-height: 1024px) and (orientation: portrait) {
@@ -201,7 +201,7 @@
   position: absolute;
   inset: 0;
   z-index: -2;
-  background-image: url("/images/kishore.webp");
+  background-image: url("/images/dummy.webp");
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -218,7 +218,7 @@
   position: absolute;
   inset: 0;
   z-index: -1;
-  backdrop-filter: blur(1vw);
+  /* backdrop-filter: blur(1vw); */
   background-color: rgb(0, 0, 0, 0.7);
 }
 @media all and (max-width: 768px) and (max-height: 1024px) and (orientation: portrait) {

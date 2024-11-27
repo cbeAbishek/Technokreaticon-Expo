@@ -56,12 +56,14 @@ const section2 = () => {
               />
             </div>
             <div className="agenda-des">
-              A hackathon is an event where individuals or teams come together
-              to collaboratively work on solving specific problems or challenges
-              within a limited timeframe, usually ranging from a few hours to a
-              couple of days. It is a great platform for programmers, designers,
-              entrepreneurs, and other creative minds to showcase their skills,
-              creativity, and problem-solving abilities.
+              The 1-Day Project Expo at PPG College aims to provide a platform
+              for students to showcase their talents through innovative projects
+              in two categories: Business Models and Innovation Models. The
+              event will feature project displays, presentations, and
+              interactive Q&A sessions with industry experts and academicians.
+              Participants will have the opportunity to network with
+              professionals, receive constructive feedback, and compete for
+              awards.
             </div>
           </div>
         </div>
@@ -77,13 +79,15 @@ const section2 = () => {
               Vision
             </div>
             <div className="about-vision-description" id="agenda-right">
-              Empowering Innovators to Transform Tomorrow. Our hackathon
-              envisions a world where creative minds converge to tackle pressing
-              challenges, forging solutions that redefine possibilities. Through
-              dynamic collaboration, cutting-edge technology, and unwavering
-              determination, we ignite a spark that sparks real change. Join us
-              to hack a brighter future and leave an indelible mark on the
-              landscape of innovation.
+              The 1-Day Project Expo at PPG College envisions fostering a
+              culture of innovation and entrepreneurship among students by
+              providing a dynamic platform to showcase their creative ideas and
+              technological solutions. Our aim is to bridge the gap between
+              academia and industry, inspiring young minds to think beyond the
+              classroom and address real-world challenges through innovative
+              business models and groundbreaking technological advancements. We
+              aspire to be a catalyst for nurturing talent and empowering
+              students to contribute to a sustainable and progressive future.
             </div>
           </div>
           <div className="mission">
@@ -97,13 +101,15 @@ const section2 = () => {
               Mission
             </div>
             <div className="about-mission-description" id="agenda-left">
-              Fueling innovation, our hackathon is a nexus of minds reimagining
-              solutions for a dynamic world. Through tech-driven teamwork, we
-              catalyze change, pushing boundaries and shaping the future. Join
-              us to ideate, collaborate, and leave an indelible mark on the
-              tapestry of progress.we ignite a spark that sparks real change.
-              Join us to hack a brighter future and leave an indelible mark on
-              the landscape of innovation
+              Our mission is to create an engaging and collaborative environment
+              where students can present their Business and Innovation Models to
+              a diverse audience, including industry leaders, academicians, and
+              peers. By encouraging hands-on problem-solving, critical thinking,
+              and teamwork, the expo seeks to cultivate entrepreneurial skills
+              and technological expertise. We are committed to celebrating
+              creativity, recognizing excellence, and fostering connections that
+              will drive the participants' professional growth and societal
+              impact.
             </div>
           </div>
         </div>

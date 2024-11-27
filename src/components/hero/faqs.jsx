@@ -47,142 +47,124 @@ const faqs = () => {
         <div className="faqs-section">
           <div className="faqs-content" onClick={handleArrow}>
             <h1 className="faqs-content-title">
-              What is a hackathon?
+            Who can participate in the expo?
               <ChevronRightIcon
                 style={styles.container}
                 className="faqs-arrow"
               />
             </h1>
             <p className="faqs-content-description">
-              A hackathon is a social coding event that brings computer
-              programmers and other interested people together to improve upon
-              or build a new software program or a hardware solution for the
-              provided problem statements.
+            The event is open to all undergraduate and postgraduate students from colleges across Tamil Nadu, especially those pursuing Computer Science, IT, or related fields.
             </p>
           </div>
 
           <div className="faqs-content" onClick={handleArrow}>
             <h1 className="faqs-content-title">
-              What is “Hack-A-Tank”?
+            What is the theme of the expo?
               <ChevronRightIcon
                 style={styles.container}
                 className="faqs-arrow"
               />
             </h1>
             <p className="faqs-content-description">
-              Hack-A-Tank is the first 24-hour national-level hackathon
-              organized by the SRM Valliammai engineering college in
-              collaboration with Whitehatians – Club of the Department of Cyber
-              Security and the Student Branch of Computer Society of India (CSI-
-              SB).
+            Business Model: Innovative business ideas, market strategies, and solutions for real-world problems.
+            Innovation Model: Creative technological solutions, prototypes, or innovative approaches to existing challenges.
             </p>
           </div>
 
           <div className="faqs-content" onClick={handleArrow}>
             <h1 className="faqs-content-title">
-              Who can participate?
+            Is there a registration fee?
               <ChevronRightIcon
                 style={styles.container}
                 className="faqs-arrow"
               />
             </h1>
             <p className="faqs-content-description">
-              Hack-A-Tank is open to all undergraduate students from all
-              colleges across India.
+            Yes, there is a nominal registration fee update you soon
             </p>
           </div>
 
           <div className="faqs-content" onClick={handleArrow}>
             <h1 className="faqs-content-title">
-              How much is the registration fee?
+            How can I register for the event?
               <ChevronRightIcon
                 style={styles.container}
                 className="faqs-arrow"
               />
             </h1>
             <p className="faqs-content-description">
-              After the scrutiny process, the organizing committee will release
-              the shortlisted teams for the finale. The selected team must pay a
-              registration fee of Rs. 1000/- per team, which includes GST. It
-              contributes to goodie bags, food, and refreshments served during
-              the event. The registration fee is non-refundable and
-              non-transferable. Teams are advised to complete the registration
-              process as soon as possible to secure their participation in the
-              event. Upon successful completion of the registration, teams will
-              receive further instructions from the organizing committee.
+            You can register online through the official event website, which will be shared via college circulars and social media platforms.
             </p>
           </div>
 
           <div className="faqs-content" onClick={handleArrow}>
             <h1 className="faqs-content-title">
-              Is the hackathon online or offline?
+            What kind of projects are expected in the Business Model category?
               <ChevronRightIcon
                 style={styles.container}
                 className="faqs-arrow"
               />
             </h1>
             <p className="faqs-content-description">
-              The first round will be abstract submission which is completely
-              done in virtual mode. Further upon registration, you will be
-              contacted by our team and given a brief on the process of abstract
-              submission. The shortlisted team should appear physically for the
-              final.
+            Projects in this category should focus on:
+
+Innovative startup ideas.
+Solutions for addressing market gaps.
+Proposals for sustainable business practices.
+Business case studies with a technological edge.
             </p>
           </div>
           <div className="faqs-content" onClick={handleArrow}>
             <h1 className="faqs-content-title">
-              How to register for the hackathon?
+            Are presentations mandatory for Business Model projects?
               <ChevronRightIcon
                 style={styles.container}
                 className="faqs-arrow"
               />
             </h1>
             <p className="faqs-content-description">
-              Click the register button on the home page and you will be
-              directed to the respective Google form. Kindly submit the required
-              details and our organizing team will contact you as soon as
-              possible.
+            : Yes, participants must prepare a presentation outlining their business idea, its target audience, revenue model, and scalability.
             </p>
           </div>
           <div className="faqs-content" onClick={handleArrow}>
             <h1 className="faqs-content-title">
-              What is the prize money of the winning team?
+            Will there be a Q&A session for Business Model projects?
               <ChevronRightIcon
                 style={styles.container}
                 className="faqs-arrow"
               />
             </h1>
             <p className="faqs-content-description">
-              The event has a prize pool of Rs 25,000 for the winners.
+            Yes, participants must be prepared for a Q&A session with the jury to explain the feasibility and impact of their ideas.
             </p>
           </div>
           <div className="faqs-content" onClick={handleArrow}>
             <h1 className="faqs-content-title">
-              What is the team size to participate in the Hack-A-Tank?
+            What kind of projects fall under the Innovation Model category?
               <ChevronRightIcon
                 style={styles.container}
                 className="faqs-arrow"
               />
             </h1>
             <p className="faqs-content-description">
-              The teams must have a minimum of 2 members and a maximum of 3
-              members.
+            Projects in this category should include:
+
+Technological innovations like software tools, apps, or prototypes.
+AI, IoT, or automation-based solutions.
+Innovative upgrades to existing systems.
             </p>
           </div>
           <div className="faqs-content" onClick={handleArrow}>
             <h1 className="faqs-content-title">
-              What are the prerequisites considered for registering?
+            Should the Innovation Model projects include a working prototype?
               <ChevronRightIcon
                 style={styles.container}
                 className="faqs-arrow"
               />
             </h1>
             <p className="faqs-content-description">
-              Participants may need to have knowledge and skills in areas such
-              as electronics, programming, data analytics, and IoT technologies,
-              depending on the theme of the hackathon. Participants must need to
-              bring their own laptops, sensors, microcontrollers, and other
-              necessary tools and equipment.
+            While a working prototype is preferred, well-documented concepts with evidence of feasibility will also be considered.
             </p>
           </div>
         </div>
