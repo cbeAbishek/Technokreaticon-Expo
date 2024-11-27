@@ -31,16 +31,16 @@ const contact = () => {
           Contacts
         </div>
         <div className="parent-container">
-          {/* -----------------------------------------Contact 1 ------------------------------------------- */}
+          {/* -----------------------------------------Contact 1 Abishek ------------------------------------------- */}
           <div>
             <div className="contact-container">
               <div className="contact-card">
                 <div className="contact-card-front">
-                  <img src="/images/shree.webp" alt="shree - president CSI" />
+                  <img src="/images/abi profil 1.webp" alt="shree - president CSI" />
                   <div className="contact-card-details">
-                    <h1 className="contact-card-name">Shree N</h1>
+                    <h1 className="contact-card-name">Abishek G</h1>
                     <h2 className="contact-card-description">
-                      President - CSI
+                      Overall Organizer  
                     </h2>
                     <h3
                       className="contact-card-options"
@@ -58,7 +58,7 @@ const contact = () => {
                 </div>
                 <div className="contact-card-back">
                   <div className="contact-card-details">
-                    <h1 className="contact-card-name">Shree N</h1>
+                    <h1 className="contact-card-name">Abishek G</h1>
                     <h2 className="contact-card-description">
                       <span
                         className="contact-card-phone"
@@ -66,7 +66,7 @@ const contact = () => {
                           handleLaunch("contact-card-launch1");
                           setTimeout(() => {
                             window.open(
-                              "https://api.whatsapp.com/send?phone=7010373822"
+                              "https://api.whatsapp.com/send?phone=9566372450"
                             );
                           }, 2000);
                         }}
@@ -78,7 +78,7 @@ const contact = () => {
                             height: "35px",
                           }}
                         />
-                        +91 7010373822
+                        +91 9566372450
                         <span id="contact-card-launch1">
                           <RocketLaunchIcon
                             className="rocketLaunch"
@@ -94,7 +94,7 @@ const contact = () => {
                         onClick={() => {
                           handleLaunch("contact-card-launch2");
                           setTimeout(() => {
-                            window.open("mailto:shree@hackatank.tech");
+                            window.open("mailto:agsabhishek1905@gmail.com");
                           }, 2000);
                         }}
                       >
@@ -105,7 +105,7 @@ const contact = () => {
                             height: "35px",
                           }}
                         />
-                        shree@hackatank.tech
+                        abishek@gmail.com
                         <span id="contact-card-launch2">
                           <RocketLaunchIcon
                             className="rocketLaunch"
@@ -121,7 +121,7 @@ const contact = () => {
                         onClick={() => {
                           handleLaunch("contact-card-launch3");
                           setTimeout(() => {
-                            window.open("https://www.instagram.com/mr._.nope");
+                            window.open("https://www.instagram.com/smakabhishek?igsh=MTR0Y3lhaW9mNWx1bw==");
                           }, 2000);
                         }}
                       >
@@ -132,7 +132,7 @@ const contact = () => {
                             height: "35px",
                           }}
                         />
-                        @mr._.nope
+                        @smakabhishek
                         <span id="contact-card-launch3">
                           <RocketLaunchIcon
                             className="rocketLaunch"
@@ -148,7 +148,7 @@ const contact = () => {
                         onClick={() => {
                           handleLaunch("contact-card-launch4");
                           setTimeout(() => {
-                            window.open("https://discord.gg/w77zzjVkEB");
+                            window.open("https://discord.gg/abishek1976_59501");
                           }, 2000);
                         }}
                       >
@@ -159,7 +159,7 @@ const contact = () => {
                             height: "35px",
                           }}
                         />
-                        the_creep_27
+                        abishek1976_59501
                         <span id="contact-card-launch4">
                           <RocketLaunchIcon
                             className="rocketLaunch"
@@ -188,19 +188,19 @@ const contact = () => {
               </div>
             </div>
           </div>
-          {/* -----------------------------------------Contact 2 ------------------------------------------- */}
+          {/* -----------------------------------------Contact 2 Sarran------------------------------------------- */}
           <div>
             <div className="contact-container">
               <div className="contact-card1">
                 <div className="contact-card-front">
                   <img
-                    src="/images/kishore.webp"
+                    src="/images/dummy.webp"
                     alt="Kishore President - Whitehatians"
                   />
                   <div className="contact-card-details">
-                    <h1 className="contact-card-name">Kishore R</h1>
+                    <h1 className="contact-card-name">Sarran</h1>
                     <h2 className="contact-card-description">
-                      President - whitehatians
+                    Head Coordinator
                     </h2>
                     <h3
                       className="contact-card-options"
@@ -218,7 +218,7 @@ const contact = () => {
                 </div>
                 <div className="contact-card-back1">
                   <div className="contact-card-details">
-                    <h1 className="contact-card-name">Kishore R</h1>
+                    <h1 className="contact-card-name">Sarran M</h1>
                     <h2 className="contact-card-description">
                       <span
                         className="contact-card-phone"
@@ -226,7 +226,7 @@ const contact = () => {
                           handleLaunch("contact-card-launch11");
                           setTimeout(() => {
                             window.open(
-                              "https://api.whatsapp.com/send?phone=8682840197"
+                              "https://api.whatsapp.com/send?phone=9245136645"
                             );
                           }, 2000);
                         }}
@@ -238,7 +238,7 @@ const contact = () => {
                             height: "35px",
                           }}
                         />
-                        +91 8682840197
+                        +91 9245136645
                         <span id="contact-card-launch11">
                           <RocketLaunchIcon
                             className="rocketLaunch"
@@ -254,7 +254,7 @@ const contact = () => {
                         onClick={() => {
                           handleLaunch("contact-card-launch12");
                           setTimeout(() => {
-                            window.open("mailto:kishore@hackatank.tech");
+                            window.open("mailto:sarranm528@gmail.com");
                           }, 2000);
                         }}
                       >
@@ -265,7 +265,7 @@ const contact = () => {
                             height: "35px",
                           }}
                         />
-                        kishore@hackatank.tech
+                        sarranm528@gmail.com
                         <span id="contact-card-launch12">
                           <RocketLaunchIcon
                             className="rocketLaunch"
@@ -282,7 +282,7 @@ const contact = () => {
                           handleLaunch("contact-card-launch13");
                           setTimeout(() => {
                             window.open(
-                              "https://www.instagram.com/an0nymou5.4dm1n"
+                              "https://www.instagram.com"
                             );
                           }, 2000);
                         }}
@@ -294,7 +294,7 @@ const contact = () => {
                             height: "35px",
                           }}
                         />
-                        @anonymous4dm1n
+                        @sarran
                         <span id="contact-card-launch13">
                           <RocketLaunchIcon
                             className="rocketLaunch"
@@ -310,7 +310,7 @@ const contact = () => {
                         onClick={() => {
                           handleLaunch("contact-card-launch14");
                           setTimeout(() => {
-                            window.open("https://discord.gg/w77zzjVkEB");
+                            window.open("https://discord.gg/");
                           }, 2000);
                         }}
                       >
@@ -321,7 +321,7 @@ const contact = () => {
                             height: "35px",
                           }}
                         />
-                        anonymous4dm1n
+                        sarran
                         <span id="contact-card-launch14">
                           <RocketLaunchIcon
                             className="rocketLaunch"
