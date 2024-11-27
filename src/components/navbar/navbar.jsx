@@ -166,7 +166,7 @@ const Navbar = () => {
               onClick={() => window.open("/", "_self")}
             >
               <img src="/images/diamond.webp" width="30vw" alt="logo" />
-              Hackathon
+              Technokreaticon
             </div>
             <div className="last-mobile">
               <h2 className="register-mobile">
