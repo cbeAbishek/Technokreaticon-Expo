@@ -150,6 +150,9 @@ const Navbar = () => {
             <li>
               <p onClick={() => handleScroll("#contact")}>Contact</p>
             </li>
+            <li>
+              <p onClick={() => window.open("https://ideathon.technokreaticon.tech/")}>Ideathon site</p>
+            </li>
           </ul>
           <div className="last">
             <h2 className="register">
@@ -170,7 +173,7 @@ const Navbar = () => {
             </div>
             <div className="last-mobile">
               <h2 className="register-mobile">
-                <a href="https://forms.gle/mqHSf1kpoTUiMURH6" target="_blank">
+                <a href="#" target="_blank">
                   Register
                 </a>
               </h2>
@@ -197,6 +200,9 @@ const Navbar = () => {
               <li>
                 <p onClick={() => handleScroll("#contact")}>Contact</p>
               </li>
+              <li>
+              <p onClick={() => window.open("https://ideathon.technokreaticon.tech/")}>Phase 1</p>
+            </li>
             </ul>
           </div>
         </div>
