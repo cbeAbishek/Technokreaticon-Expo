@@ -169,7 +169,7 @@
   width: 0;
   left: 0;
   bottom: 1vh;
-  background: rgb(243, 158, 172, 0.7);
+  background: rgba(146, 18, 251, 0.788);
   animation: line 1s ease-in-out forwards;
 }
 @media all and (max-width: 768px) and (max-height: 1024px) and (orientation: portrait) {
@@ -434,9 +434,9 @@
   position: absolute;
   inset: 0;
   z-index: -1;
-  backdrop-filter: blur(1.5px);
+  backdrop-filter: blur(2.5px);
   border-radius: 1vw;
-  box-shadow: 0vw 15vh 1vw 1vw black;
+  box-shadow: 1vw 3vh 2vw 1vw rgba(141, 30, 225, 0.679);
 }
 @media all and (max-width: 768px) and (max-height: 1024px) and (orientation: portrait) {
   .right_side .col1::after {
