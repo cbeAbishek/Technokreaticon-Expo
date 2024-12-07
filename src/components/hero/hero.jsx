@@ -172,7 +172,7 @@ const hero = () => {
               <h3 className="text">
                 <div>
                   <div>
-                    <div> 15</div> <div> th</div>{" "}
+                    <div> 14</div> <div> th</div>{" "}
                   </div>{" "}
                   March
                 </div>
