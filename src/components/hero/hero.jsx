@@ -37,7 +37,7 @@ const hero = () => {
     seconds: 0,
   });
   const handleCountdown = () => {
-    const countDate = new Date("March 15, 2025 09:00:00").getTime();
+    const countDate = new Date("March 14, 2025 09:00:00").getTime();
     const now = new Date().getTime();
     const diff = countDate - now;
     {
@@ -255,7 +255,7 @@ const hero = () => {
       </div>
       <Agenda />
       <div className="bg-sep"></div>
-      {/* <Schedule /> */}
+      <Schedule />
       <div className="bg-sep"></div>
       <Sponsors />
       <Footer />

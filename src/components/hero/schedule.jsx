@@ -35,9 +35,9 @@ const schedule = () => {
             <div className="container" id="timeline-container">
               <h2 className="date">
                 <div>
-                  Aug
+                  Jan
                   <div>
-                    <div> 17</div> <div>th</div>
+                    <div> 5</div> <div>th</div>
                   </div>
                 </div>
               </h2>
@@ -45,35 +45,34 @@ const schedule = () => {
               <p className="container-description">
                 Registration is open for tech enthusiasts, developers, and
                 problem solvers from all backgrounds. Join us for an
-                exhilarating 24 hours of coding, collaboration, and competition
-                as we tackle real-world challenges and develop cutting-edge
-                solutions
+                exhilarating Project Expo, collaboration, and competition
               </p>
               <span className="circle"></span>
             </div>
             <div className="container ">
-              <h2 className="container-title">Abstract Submission</h2>
+              <h2 className="container-title">Registration Close</h2>
               <h1 className="date">
                 <div>
-                  Aug
+                  March
                   <div>
-                    <div>17</div> <div>th</div>
-                  </div>
-                  -Aug
-                  <div>
-                    <div>28</div> <div>th</div>
+                    <div>5</div> <div>th</div>
                   </div>
                 </div>
               </h1>
               <p className="container-description">
-                Submit your abstracts and be a part of the forefront of
+              Last call for registration! Time is running out to be a part of
+                our extraordinary Project Expo. Don't miss this incredible
+                opportunity to join a community of Market enthusiasts, Busniess, developers,
+                and innovators from around the world. Registration will close
+                soon, so act fast and secure your spot
+                {/* Submit your abstracts and be a part of the forefront of
                 innovation! We invite you to share your groundbreaking ideas and
                 research at our esteemed hackathon event. This is your
-                opportunity to present your unique insights and solutions 🚀👩‍💻
+                opportunity to present your unique insights and solutions 🚀👩‍💻 */}
               </p>
               <span className="circle"></span>
             </div>
-            <div className="container ">
+            {/* <div className="container ">
               <h1 className="date">
                 <div>
                   Aug
@@ -285,7 +284,7 @@ const schedule = () => {
                 celebrations.
               </p>
               <span className="circle-mobile"></span>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>
