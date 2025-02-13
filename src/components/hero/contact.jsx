@@ -194,7 +194,7 @@ const contact = () => {
               <div className="contact-card1">
                 <div className="contact-card-front">
                   <img
-                    src="/images/dummy.webp"
+                    src="/images/sarran.webp "
                     alt="Kishore President - Whitehatians"
                   />
                   <div className="contact-card-details">
@@ -226,7 +226,7 @@ const contact = () => {
                           handleLaunch("contact-card-launch11");
                           setTimeout(() => {
                             window.open(
-                              "https://api.whatsapp.com/send?phone=9245136645"
+                              "https://api.whatsapp.com/send?phone=+917904823782"
                             );
                           }, 2000);
                         }}
@@ -238,7 +238,7 @@ const contact = () => {
                             height: "35px",
                           }}
                         />
-                        +91 9245136645
+                        +91 7904823782
                         <span id="contact-card-launch11">
                           <RocketLaunchIcon
                             className="rocketLaunch"
@@ -282,7 +282,7 @@ const contact = () => {
                           handleLaunch("contact-card-launch13");
                           setTimeout(() => {
                             window.open(
-                              "https://www.instagram.com"
+                              "https://www.instagram.com/_.sarran05._"
                             );
                           }, 2000);
                         }}
