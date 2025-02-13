@@ -35,9 +35,9 @@ const schedule = () => {
             <div className="container" id="timeline-container">
               <h2 className="date">
                 <div>
-                  Jan
+                  Feb
                   <div>
-                    <div> 5</div> <div>th</div>
+                    <div> 21</div> <div>st</div>
                   </div>
                 </div>
               </h2>
@@ -55,7 +55,7 @@ const schedule = () => {
                 <div>
                   March
                   <div>
-                    <div>5</div> <div>th</div>
+                    <div>17</div> <div>th</div>
                   </div>
                 </div>
               </h1>

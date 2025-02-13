@@ -37,7 +37,7 @@ const hero = () => {
     seconds: 0,
   });
   const handleCountdown = () => {
-    const countDate = new Date("March 7, 2025 09:00:00").getTime();
+    const countDate = new Date("March 20, 2025 09:00:00").getTime();
     const now = new Date().getTime();
     const diff = countDate - now;
     {
@@ -172,7 +172,7 @@ const hero = () => {
               <h3 className="text">
                 <div>
                   <div>
-                    <div> 7</div> <div> th</div>{" "}
+                    <div> 20</div> <div> th</div>{" "}
                   </div>{" "}
                   March
                 </div>
