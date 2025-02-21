@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import "./index.css";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route } from "react-router-dom";
 import Error from "./error.jsx";
 import {
   Navbar,
@@ -22,7 +22,7 @@ ReactGA.pageview(window.location.pathname + window.location.search);
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
-    <BrowserRouter>
+    <HashRouter>
       <Routes>
         <Route
           path="*"
@@ -98,6 +98,6 @@ ReactDOM.createRoot(document.getElementById("root")).render(
         <Route path="/qr/verify/:id" element={<Verify />} />
         <Route path="/login" element={<Login />} />
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   </React.StrictMode>
 );

@@ -99,10 +99,7 @@ const hero = () => {
             width="60vw"
             className="hero-srm-logo"
           />
-          <div className="tag">
-            
-              PPG Institute of Technology
-          </div>
+          <div className="tag">PPG Institute of Technology</div>
           <img
             src="/images/srmvec.webp"
             alt="srmvec logo"
@@ -123,7 +120,7 @@ const hero = () => {
               {/* <span className="hackathon">Hackathon</span> */}
               <p className="description">
                 National <span> Level Project Expo </span>
-                showcasing innovative solutions 
+                showcasing innovative solutions
                 <br /> and tech talents from across the country
               </p>
             </div>
@@ -138,9 +135,6 @@ const hero = () => {
               </div>
             </div>
             <div className="countdown-main">
-              {/* <h2 className="countdown-text">
-            Join us for the ultimate coding extravaganza!
-          </h2> */}
               <div className="countdown anim">
                 <div className="day-card anim">
                   <h3 className="day">{countdown.days}</h3>
@@ -162,6 +156,9 @@ const hero = () => {
                   <h3>Seconds</h3>
                 </div>
               </div>
+              <h2 className="countdown-text">
+                Join us for the ultimate coding extravaganza!
+              </h2>
             </div>
           </div>
 
@@ -178,13 +175,15 @@ const hero = () => {
                 </div>
                 <Calender className="calender-icon" />
               </h3>
+              {/* /events */}
               <p
                 className="text2"
-                onClick={() => handleCardClicks("/guidelines")}
+                onClick={() => handleCardClicks("/ppg")}
               >
                 Guidelines <ArrowRightWhite className="arrow-right-icon" />
               </p>
-              <p className="text3" onClick={() => handleCardClicks("/events")}>
+              {/* /events */}
+              <p className="text3" onClick={() => handleCardClicks("/ppg")}> 
                 Events <ArrowRightWhite className="arrow-right-icon" />
               </p>
             </div>
@@ -193,11 +192,13 @@ const hero = () => {
               <h3 className="text4">
                 Information Details <Info className="info-icon" />
               </h3>
-              <p className="text5" onClick={() => handleCardClicks("/about")}>
+              {/* /about */}
+              <p className="text5" onClick={() => handleCardClicks("/ppg")}>
                 About
                 <ArrowRightWhite className="arrow-right-icon" />
               </p>
-              <p className="text6" onClick={() => handleCardClicks("/judges")}>
+              {/* /judges */}
+              <p className="text6" onClick={() => handleCardClicks("/ppg")}>
                 Judge Panel
                 <ArrowRightWhite className="arrow-right-icon" />
               </p>
@@ -207,11 +208,13 @@ const hero = () => {
               <div className="flex justify-items-start">
                 <h3 className="text7">Project Category</h3>
               </div>
-              <p className="text8" onClick={() => handleCardClicks("/set1")}>
-              Business Model <ArrowRightBlack className="arrow-right-icon" />
+              {/* /set1 */}
+              <p className="text8" onClick={() => handleCardClicks("/ppg")}>
+                Business Model <ArrowRightBlack className="arrow-right-icon" />
               </p>
-              <p className="text9" onClick={() => handleCardClicks("/set2")}>
-              Innovation Model <ArrowRightBlack className="arrow-right-icon" />
+              <p className="text9" onClick={() => handleCardClicks("/ppg")}>
+                Innovation Model{" "}
+                <ArrowRightBlack className="arrow-right-icon" />
               </p>
             </div>
             {/* -------------------------- Column 4  ---------------------------------- */}

@@ -11,9 +11,9 @@ const Error = () => {
       </h1>
 
       <h1 className="title-error1 ">
-        The Site requested not found
-        <span aria-hidden="true">The Site requested not found</span>
-        <span aria-hidden="true">The Site requested not found</span>
+        Update soon...
+        <span aria-hidden="true">Update soon...</span>
+        <span aria-hidden="true">Update soon...</span>
       </h1>
     </div>
   );
