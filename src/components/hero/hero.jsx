@@ -157,7 +157,7 @@ const hero = () => {
                 </div>
               </div>
               <h2 className="countdown-text">
-                Join us for the ultimate coding extravaganza!
+              Join us for Techno Kreaticon Phase 2 and showcase your  compelling pitch deck!!!
               </h2>
             </div>
           </div>
