@@ -13,6 +13,7 @@ import { ReactComponent as Location } from "../../assets/location.svg";
 import { ReactComponent as ArrowRightWhite } from "../../assets/arrow-right-white.svg";
 import { ReactComponent as ArrowRightBlack } from "../../assets/arrow-right-black.svg";
 import Chatbot from "./chatbot";
+import VideoPlayer from "./video";
 
 const hero = () => {
   const handleRegisterClick = () => {
@@ -256,8 +257,10 @@ const hero = () => {
           </div>
         </section>
         {/* -------------------------- Page 2 -------------------------- */}
+        <VideoPlayer/>
       </div>
       <Agenda />
+      
       <div className="bg-sep"></div>
       <Schedule />
       <div className="bg-sep"></div>
