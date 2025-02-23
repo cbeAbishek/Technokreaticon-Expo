@@ -157,7 +157,7 @@ const hero = () => {
                 </div>
               </div>
               <h2 className="countdown-text">
-              Join us for Techno Kreaticon Phase 2 and showcase your  compelling pitch deck!!!
+              Join us for Techno Kreaticon Phase 2
               </h2>
             </div>
           </div>
@@ -232,8 +232,7 @@ const hero = () => {
                   PPG Insitute of Technology, Coimbatore
                 </p>
                   <p className="text-white  text-[0.8vw] ">
-                    National Highway 45, Potheri, SRM Nagar, Kattankulathur, Tamil
-                    Nadu - 603203
+                  RATHNAGIRI ROAD, Viswapuram, Saravanampatti, Coimbatore, Tamil Nadu 641035
                   </p>
                 <div className="round"></div>
               </div>
