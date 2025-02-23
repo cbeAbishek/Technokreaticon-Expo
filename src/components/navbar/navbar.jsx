@@ -4,6 +4,7 @@ import {
   InstagramOutlined,
   InstagramFilled,
   FacebookFilled,
+  LinkedinFilled,
 } from "@ant-design/icons";
 import { SocialIcon } from "react-social-icons";
 import { ReactComponent as Grid } from "../../assets/navgrid.svg";
@@ -16,8 +17,7 @@ const Navbar = () => {
       action: "click",
       label: "Instagram",
     });
-    window.open("https://www.instagram.com/srmveccsisb");
-    window.open("https://www.instagram.com/whitehatians");
+    window.open("https://www.instagram.com/cyberzen_ppgit");
   };
   const handleFb = () => {
     ReactGA.event({
@@ -25,8 +25,9 @@ const Navbar = () => {
       action: "click",
       label: "Facebook",
     });
-    window.open("https://www.facebook.com/srmveccsisb");
-    window.open("https://www.facebook.com/@whitehatians");
+    window.open(
+      "https://www.facebook.com/profile.php?id=61566982056146&ref=ig_profile_ac"
+    );
   };
   const handleYt = () => {
     ReactGA.event({
@@ -34,8 +35,7 @@ const Navbar = () => {
       action: "click",
       label: "Youtube",
     });
-    window.open("https://www.youtube.com/@SRMVECCSIAN");
-    window.open("https://www.youtube.com/@whitehatians");
+    window.open("https://www.youtube.com/@CSE-PPGIT");
   };
 
   const handleDiscord = () => {
@@ -45,7 +45,7 @@ const Navbar = () => {
       label: "Youtube",
     });
 
-    window.open("https://discord.gg/w77zzjVkEB?event=1141717757382107197");
+    window.open("https://www.linkedin.com/school/ppg-institute-of-technology/");
   };
   const handleRegisterClick = () => {
     ReactGA.event({
@@ -110,7 +110,6 @@ const Navbar = () => {
                   }}
                 />
               </div>
-
               <div className="yt">
                 <SocialIcon
                   onClick={handleYt}
@@ -124,7 +123,7 @@ const Navbar = () => {
               <div className="discord-icon">
                 <SocialIcon
                   onClick={handleDiscord}
-                  network="discord"
+                  network="linkedin"
                   style={{
                     height: "3vw",
                     width: "3vw",
@@ -151,7 +150,13 @@ const Navbar = () => {
               <p onClick={() => handleScroll("#contact")}>Contact</p>
             </li>
             <li>
-              <p onClick={() => window.open("https://ideathon.technokreaticon.tech/")}>Ideathon site</p>
+              <p
+                onClick={() =>
+                  window.open("https://ideathon.technokreaticon.tech/")
+                }
+              >
+                Ideathon site
+              </p>
             </li>
           </ul>
           <div className="last">
@@ -169,7 +174,6 @@ const Navbar = () => {
               onClick={() => window.open("/", "_self")}
             >
               <img src="/images/diamond.webp" width="30vw" alt="logo" />
-              
             </div>
             <div className="last-mobile">
               <h2 className="register-mobile">
@@ -201,8 +205,14 @@ const Navbar = () => {
                 <p onClick={() => handleScroll("#contact")}>Contact</p>
               </li>
               <li>
-              <p onClick={() => window.open("https://ideathon.technokreaticon.tech/")}>Phase 1</p>
-            </li>
+                <p
+                  onClick={() =>
+                    window.open("https://ideathon.technokreaticon.tech/")
+                  }
+                >
+                  Phase 1
+                </p>
+              </li>
             </ul>
           </div>
         </div>
