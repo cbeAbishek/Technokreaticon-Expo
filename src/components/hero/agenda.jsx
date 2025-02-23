@@ -56,14 +56,12 @@ const section2 = () => {
               />
             </div>
             <div className="agenda-des">
-              The 1-Day Project Expo at PPG College aims to provide a platform
-              for students to showcase their talents through innovative projects
-              in two categories: Business Models and Innovation Models. The
-              event will feature project displays, presentations, and
-              interactive Q&A sessions with industry experts and academicians.
-              Participants will have the opportunity to network with
-              professionals, receive constructive feedback, and compete for
-              awards.
+              Techno KreatiCon Phase 2 is a dynamic platform where innovation
+              meets opportunity! Organized by the CyberZen Club, this event
+              fuels creativity by empowering budding tech enthusiasts to present
+              their groundbreaking projects. With expert jury panels,
+              competitive pitching, and networking opportunities, it’s the
+              perfect launchpad for visionary minds.
             </div>
           </div>
         </div>
@@ -79,15 +77,14 @@ const section2 = () => {
               Vision
             </div>
             <div className="about-vision-description" id="agenda-right">
-              The 1-Day Project Expo at PPG College envisions fostering a
-              culture of innovation and entrepreneurship among students by
-              providing a dynamic platform to showcase their creative ideas and
-              technological solutions. Our aim is to bridge the gap between
-              academia and industry, inspiring young minds to think beyond the
-              classroom and address real-world challenges through innovative
-              business models and groundbreaking technological advancements. We
-              aspire to be a catalyst for nurturing talent and empowering
-              students to contribute to a sustainable and progressive future.
+              Techno KreatiCon Phase 2 envisions a future where innovation
+              drives progress, empowering young minds to transform ideas into
+              real-world solutions. We aim to build a dynamic ecosystem where
+              creativity, technology, and entrepreneurship converge, fostering
+              groundbreaking advancements that address global challenges.
+              Through collaboration, mentorship, and hands-on exposure, we
+              strive to nurture a generation of forward-thinking leaders who
+              will shape the future of technology and society.
             </div>
           </div>
           <div className="mission">
@@ -101,15 +98,16 @@ const section2 = () => {
               Mission
             </div>
             <div className="about-mission-description" id="agenda-left">
-              Our mission is to create an engaging and collaborative environment
-              where students can present their Business and Innovation Models to
-              a diverse audience, including industry leaders, academicians, and
-              peers. By encouraging hands-on problem-solving, critical thinking,
-              and teamwork, the expo seeks to cultivate entrepreneurial skills
-              and technological expertise. We are committed to celebrating
-              creativity, recognizing excellence, and fostering connections that
-              will drive the participants' professional growth and societal
-              impact.
+              Our mission is to provide a premier platform that enables students
+              to showcase their technological expertise, refine their
+              problem-solving skills, and gain valuable industry insights. By
+              connecting participants with mentors, investors, and industry
+              professionals, we facilitate knowledge exchange and career growth.
+              Techno KreatiCon Phase 2 is committed to bridging the gap between
+              ideation and execution, encouraging participants to develop viable
+              prototypes, secure funding, and explore incubation opportunities.
+              Through this initiative, we aim to cultivate a culture of
+              continuous learning, innovation, and impactful entrepreneurship.
             </div>
           </div>
         </div>

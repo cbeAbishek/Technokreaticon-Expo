@@ -12,55 +12,63 @@ const guildelines = () => {
         <div className="guidelines-container">
           <div className="guidelines-content">
             <div className="guidelines-1">
-              1. The teams can have a minimum of 2 members and a maximum of 3
-              members. 🤝👥
+              Participants must choose either Pathway 1: Problem-Solution
+              Framework or Pathway 2: Technology-Driven Innovation for their
+              project submission.
               <br /> <br />
-              2. The last date for team registration is 25th August 2023. ⏰🗓️{" "}
-              <br />
-              <br />
-              3. The last date for abstract submission is 28th August 2023. 📝🗓️{" "}
-              <br />
-              <br />
-              4. The project should be unique and shouldn't have ever been
-              published in any other journals or competitions. 🚀🔍 <br />
-              <br />
-              5. The event will have three phases of judge review. Projects will
-              be evaluated every 8 hours from the beginning of the finale. 👁️‍🗨️🕒{" "}
-              <br />
-              <br />
-              6. The project's work should sustain the whole 24 hours; if it
-              fails to do so, the team will be disqualified immediately. 🏆🕒❌{" "}
-              <br />
-              <br />
-              7. Code of conduct is strictly monitored, and any case of
-              uncivilized behavior will result in the whole team's
-              disqualification. 🚫👮‍♂️❌ <br />
-              <br />
+              Each team or individual is required to select one specific
+              category from the chosen pathway that best aligns with their
+              project idea.
+              <br /> <br />
+              A detailed project pitch deck must be submitted, including
+              sections on the problem statement, proposed solution, market
+              analysis, and revenue model.
+              <br /> <br />
+              Supporting materials such as a proof of concept (MVP, prototype,
+              simulation), patent documentation, or market research reports
+              should accompany the pitch deck.
+              <br /> <br />
+              Projects must demonstrate originality, technical depth, societal
+              impact, and scalability to qualify for evaluation by the jury
+              panel.
+              <br /> <br />
+              Participants are encouraged to combine elements from multiple
+              categories (e.g., AI + Healthcare) for interdisciplinary and
+              innovative submissions.
+              <br /> <br />
+              All submissions must include a clear go-to-market strategy and
+              potential for scalability, especially for startup-focused ideas.
+              <br /> <br />
+              Teams must register online by March 17, 2025 , and adhere to the
+              registration fee guidelines available on the event website.
             </div>
             <div className="guidelines-2">
-              8. The abstract submission round is completely free for all teams
-              that have registered on or before the 25th of August 2023. 🆓📅{" "}
-              <br />
-              <br />
-              9. The shortlisted/scrutinized teams for the finale of
-              "HACK-A-TANK" will be announced by 4:00 pm on the 29th of August
-              2023. 📣🏁 10. The Finale round begins at 10:00 am on 8th
-              September 2023 and concludes at 5:00 pm on the 9th September 2023.
-              🏁🕙🏁
-              <br />
-              <br /> 11. The finale round will be offline and held at our SRM
-              VALLIAMMAI ENGINEERING COLLEGE, Potheri, Chennai. 🏛️📍 <br />
-              <br />
-              12. Power outlets and worksheets will be provided to all teams
-              prior to the commencement of the event. 🔌📑 <br />
-              <br />
-              13. All technical and physical requirements for the projects
-              should be brought by the team only, and no assistance will be
-              provided in this case. ⚙️🛠️🚫
+              Participants will present their projects in front of a
+              distinguished jury panel during the event on March 20, 2025 , and
+              should prepare for a Q&A session.
               <br /> <br />
-              14. Teams must present their projects in a clear and organized
-              manner during the finale, ensuring effective communication of
-              their ideas. 🗣️📊
+              Final decisions will be based on predefined evaluation criteria,
+              and winners will be announced during the closing ceremony.
+              <br /> <br />
+              All participants will receive participation certificates,
+              refreshments, lunch, and a participation kit during the event.
+              <br /> <br />
+              The top three winning teams will be awarded shields, certificates,
+              cash prizes, and internship offers at an incubator.
+              <br /> <br />
+              Networking opportunities with industry experts and access to
+              stalls set up during the event will be available to all
+              participants.
+              <br /> <br />
+              Post-event, an e-book capturing highlights, insights, and key
+              takeaways will be published and shared with all attendees.
+              <br /> <br />
+              Participants must adhere to the event schedule, guidelines, and
+              code of conduct outlined on the official website.
+              <br /> <br />
+              For queries or clarifications, contact the event coordinators via
+              email or phone numbers listed on the website.
+              <br /> <br />
             </div>
           </div>
         </div>

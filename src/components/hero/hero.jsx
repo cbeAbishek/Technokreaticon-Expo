@@ -175,15 +175,15 @@ const hero = () => {
                 </div>
                 <Calender className="calender-icon" />
               </h3>
-              {/* /events */}
+              
               <p
                 className="text2"
-                onClick={() => handleCardClicks("/ppg")}
+                onClick={() => handleCardClicks("/guidelines")}
               >
                 Guidelines <ArrowRightWhite className="arrow-right-icon" />
               </p>
               {/* /events */}
-              <p className="text3" onClick={() => handleCardClicks("/ppg")}> 
+              <p className="text3" onClick={() => handleCardClicks("/events")}> 
                 Events <ArrowRightWhite className="arrow-right-icon" />
               </p>
             </div>
@@ -193,7 +193,7 @@ const hero = () => {
                 Information Details <Info className="info-icon" />
               </h3>
               {/* /about */}
-              <p className="text5" onClick={() => handleCardClicks("/ppg")}>
+              <p className="text5" onClick={() => handleCardClicks("/about")}>
                 About
                 <ArrowRightWhite className="arrow-right-icon" />
               </p>
@@ -209,11 +209,11 @@ const hero = () => {
                 <h3 className="text7">Project Category</h3>
               </div>
               {/* /set1 */}
-              <p className="text8" onClick={() => handleCardClicks("/ppg")}>
-                Business Model <ArrowRightBlack className="arrow-right-icon" />
+              <p className="text8" onClick={() => handleCardClicks("/set1")}>
+              Tech Innovation<ArrowRightBlack className="arrow-right-icon" />
               </p>
-              <p className="text9" onClick={() => handleCardClicks("/ppg")}>
-                Innovation Model{" "}
+              <p className="text9" onClick={() => handleCardClicks("/set2")}>
+              Solutions Startup{" "}
                 <ArrowRightBlack className="arrow-right-icon" />
               </p>
             </div>
@@ -231,10 +231,10 @@ const hero = () => {
                 <p className="text-white pt-[2vh] text-[1vw] venue-text-mobile">
                   PPG Insitute of Technology, Coimbatore
                 </p>
-                {/* <p className="text-white  text-[0.8vw] ">
-                  National Highway 45, Potheri, SRM Nagar, Kattankulathur, Tamil
-                  Nadu - 603203
-                </p> */}
+                  <p className="text-white  text-[0.8vw] ">
+                    National Highway 45, Potheri, SRM Nagar, Kattankulathur, Tamil
+                    Nadu - 603203
+                  </p>
                 <div className="round"></div>
               </div>
             </div>

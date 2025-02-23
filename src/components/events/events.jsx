@@ -9,7 +9,7 @@ const events = () => {
       action: "click",
       label: `Abstract Reference Download`,
     });
-    window.open("/docs/Abstract_Reference_Hackathon.pdf");
+    window.open("/docs/Abstract_Reference_Techno.pdf");
   };
   useEffect(() => {
     document.title = "Stages";
@@ -70,96 +70,96 @@ const events = () => {
               {" "}
               <h1>Registration</h1>
               <p>
-                🔗 Scan the QR in the poster or search www.hackatank.tech and
-                register for the event.
+                🔗 Scan the QR in the poster or search{" "}
+                <a href="https://www.technokreaticon.tech" target="_blank">
+                  www.technokreaticon.tech
+                </a>{" "}
+                and register for the event.
                 <br /> <br />
-                1️⃣ It will redirect you to the respective Google forms. Kindly
-                fill in the requested details.
+                ⿡ Participants register online by providing their details. They
+                must select a category and theme for their project.
                 <br /> <br />
-                2️⃣Our registration team will contact you further upon
-                registration.
+                ⿢ Upon registration, a confirmation email is sent with event
+                guidelines and deadlines. Each team receives a unique ID for
+                tracking.
                 <br /> <br />
-                3️⃣For any queries/issues, kindly check the contacts column for
-                Point of Contact (POC).
-                <br /> <br />
-                4️⃣Last date for registration is on or before the 25th of August
-                2023.
-                <br /> <br />
-                5️⃣The first round is free for all the teams that register for
-                the event.
+                ⿣ The last date for registration is on or before the specified
+                deadline. Late entries will not be accepted.
+                <br /> <br />⿤ For any queries/issues, kindly check the
+                contacts column for the Point of Contact (POC).
               </p>
             </div>
           </div>
           <div className="section-content stage2-content">
             <div className="section-format">
+              <h1>Abstract Submission</h1>
               <h1>
-                Abstract Submission
                 <span className="stage2-reference" onClick={handleAbstract}>
-                  <span>click here to downlaod -</span>
-                  ABSTRACT SUBMISSION REFERENCE
+                  ABSTRACT SUBMISSION REFERENCE - Downlaod
                 </span>
               </h1>
               <p>
-                📋 The problem statements are available on the home page, and it
-                is provided at the bottom of this page as a PDF for downloading.
+                📝 Submission of ideas and essential documents is mandatory to
+                proceed further.
                 <br /> <br />
-                📥 We also accept your own/inspired problem statements for
-                review. Kindly submit it as an abstract and the registration
-                team will contact you.
+                ⿡ Teams must submit their project abstracts along with
+                essential documents.
                 <br /> <br />
-                📝 The abstract format is given at the top right of this page as
-                a PDF for downloading. Kindly download and use it for reference.
+                ⿢ They can also provide prototypes, MVPs, or research papers to
+                strengthen their submission.
                 <br /> <br />
-                📄 Abstract of the project must be submitted only in PDF file
-                format.
-                <br /> <br />⏰ The last date for abstract submission is on or
-                before the 28th of August 2023.
+                ⿣ All submitted ideas will directly proceed to the final round;
+                no screening will be done.
+                <br /> <br />
+                ⿤ The deadline for submission must be strictly followed. Late
+                submissions will not be considered.
+                <br /> <br />⿥ Upon successful submission, participants will
+                receive a confirmation email.
               </p>
             </div>
           </div>
           <div className="section-content stage3-content">
             <div className="section-format">
-              <h1>Scrutinization</h1>
+              <h1>Final Presentation & Evaluation</h1>
               <p>
-                🔍 The teams will be shortlisted by the judging panel on various
-                criteria which includes the scope of the project, execution
-                ideology, etc.
+                🎤 Final presentation and evaluation process for shortlisted
+                teams.
                 <br /> <br />
-                📢 The scrutinized/shortlisted teams for the final round of
-                "HACK-A-TANK" will be announced on the 30th of August 2023.
+                ⿡ Each team presents their project to a jury panel on the event
+                day.
                 <br /> <br />
-                💰 The Shortlisted team should proceed with their registration
-                by completing the payment of Rs 999/- per team on or before 3rd
-                September 2023.
+                ⿢ The evaluation is based on innovation, feasibility, impact,
+                and market potential.
                 <br /> <br />
-                🔄 After the completion of payment, the registration team will
-                assess you for the further procedures of the final round.
+                ⿣ A live Q&A session will be conducted to allow teams to
+                explain their projects in detail.
+                <br /> <br />
+                ⿤ Working models or key concepts must be demonstrated clearly
+                to the judges.
+                <br /> <br />⿥ Constructive feedback will be provided to each
+                team for further improvements.
               </p>
             </div>
           </div>
           <div className="section-content stage4-content">
             <div className="section-format">
-              <h1>The Grand Finale</h1>
+              <h1>Result Announcement & Award Ceremony</h1>
               <p>
-                🎉 The commencement of the inaugural function is scheduled at
-                10:00 am on the 8th of September 2023.
+                🏆 Result announcement and award ceremony to conclude the event.
                 <br /> <br />
-                ⏱️ The "HACK-A-TANK" event will begin at 1:00 pm on the 8th of
-                September 2023 and will wrap up at 1:00 pm on the 9th of
-                September 2023.
+                ⿡ Final scores will be compiled based on the evaluation
+                criteria.
                 <br /> <br />
-                🍔🍕 The lunch and dinner for the 8th of September will be
-                provided by the organizing committee to the participants.
+                ⿢ Winners will be announced, and awards will be distributed to
+                the top teams.
                 <br /> <br />
-                🍳🍔 The breakfast and lunch for the 9th of September will be
-                provided by the organizing committee to the participants.
+                ⿣ Special recognitions may be given for outstanding
+                innovations.
                 <br /> <br />
-                🍪 Refreshments will be provided to all the participating teams
-                at all feasible times by the organizing committee.
-                <br /> <br />
-                🏆 The event will be concluded with the announcement of the cash
-                prize winners of the "HACK-A-TANK" event on the 9th of September
-                2023 by 4:00 pm.
+                ⿤ All participants will receive certificates for their
+                contributions.
+                <br /> <br />⿥ A networking session with judges and industry
+                experts will be conducted at the end.  
               </p>
             </div>{" "}
           </div>

@@ -29,193 +29,142 @@ const set2 = () => {
         </p>
         <div className="software-container">
           <div className="software-content" onClick={handleSoftwareView}>
-            <h1 className="software-content-title">
-              Sustainable Solutions for Urban Mobility
-            </h1>
-            <p className="software-content-description projects-close projects-close">
-              {" "}
-              Develop an application or system that addresses the challenges of
-              urban transportation, promoting sustainable alternatives such as
-              cycling, walking, or public transport. Consider factors like
-              traffic congestion, air pollution, and ease of access for all
-              citizens.
-            </p>
-          </div>
-
-          <div className="software-content" onClick={() => handleSoftwareView}>
-            <h1 className="software-content-title">
-              AI-powered Healthcare Triage
-            </h1>
+            <h1 className="software-content-title">Subscription Services</h1>
             <p className="software-content-description projects-close">
-              Create an AI-powered platform that can assess and prioritize
-              patient symptoms to help healthcare professionals manage the
-              patient load efficiently during emergencies or outbreaks. The
-              system should be able to recognize critical cases that need
-              immediate attention.
+              Create a seamless subscription-based model that offers users
+              personalized access to products or services, ensuring convenience
+              and long-term engagement.
             </p>
           </div>
 
           <div className="software-content" onClick={handleSoftwareView}>
             <h1 className="software-content-title">
-              Education Accessibility for All
+              SaaS (Software as a Service)
             </h1>
             <p className="software-content-description projects-close">
-              Design an educational tool or application that makes learning more
-              accessible to differently-abled individuals or those with learning
-              difficulties. Consider inclusivity, interactivity, and adaptable
-              content to cater to a diverse audience
+              Develop a cloud-based software solution that allows businesses or
+              individuals to access powerful tools and services on a
+              subscription basis.
             </p>
           </div>
 
           <div className="software-content" onClick={handleSoftwareView}>
             <h1 className="software-content-title">
-              Waste Management and Recycling Optimization
+              B2B (Business to Business)
             </h1>
             <p className="software-content-description projects-close">
-              Develop an intelligent system that optimizes waste collection and
-              recycling processes in urban areas. The solution could include
-              real-time data analysis, route optimization, and incentivizing
-              citizens to participate actively in recycling initiatives
+              Design solutions that facilitate smooth transactions and
+              partnerships between businesses, optimizing efficiency and growth.
             </p>
           </div>
 
           <div className="software-content" onClick={handleSoftwareView}>
             <h1 className="software-content-title">
-              Cybersecurity for IoT Devices
+              B2C (Business to Consumer)
             </h1>
             <p className="software-content-description projects-close">
-              CBuild a security solution to protect Internet of Things (IoT)
-              devices from potential threats and vulnerabilities. The solution
-              should ensure data privacy, integrity, and device authentication
-              to prevent unauthorized access
+              Develop platforms or services that directly connect businesses
+              with consumers, enhancing user experience and satisfaction.
             </p>
           </div>
 
           <div className="software-content" onClick={handleSoftwareView}>
             <h1 className="software-content-title">
-              Disaster Preparedness and Response
+              MVP (Minimum Viable Product)
             </h1>
             <p className="software-content-description projects-close">
-              Create a platform that enhances disaster preparedness and response
-              efforts. The system could provide real-time updates, offer
-              resources and support to affected communities, and enable
-              efficient coordination between emergency responders.
+              Build a lean and functional prototype to test market viability,
+              gather user feedback, and refine product development.
             </p>
           </div>
 
           <div className="software-content" onClick={handleSoftwareView}>
-            <h1 className="software-content-title">
-              Personalized Mental Health Support
-            </h1>
+            <h1 className="software-content-title">Scalability</h1>
             <p className="software-content-description projects-close">
-              Design an app or service that offers personalized mental health
-              support based on an individual's needs and preferences. The
-              solution should provide resources, coping strategies, and access
-              to professional help when necessary
+              Develop solutions with the ability to grow and adapt, ensuring
+              sustainable expansion and increasing market reach.
             </p>
           </div>
+
           <div className="software-content" onClick={handleSoftwareView}>
-            <h1 className="software-content-title">
-              AI-driven Fake News Detection
-            </h1>
+            <h1 className="software-content-title">Circular Economy</h1>
             <p className="software-content-description projects-close">
-              Develop an AI system capable of detecting and classifying fake
-              news articles or misinformation spread across various social media
-              platforms. The system should provide users with reliable sources
-              and factchecking information.{" "}
+              Implement innovative models that promote sustainability by
+              minimizing waste, reusing resources, and optimizing lifecycle
+              management.
             </p>
           </div>
+
           <div className="software-content" onClick={handleSoftwareView}>
-            <h1 className="software-content-title">Food Waste Reduction</h1>
+            <h1 className="software-content-title">Consultancy</h1>
             <p className="software-content-description projects-close">
-              Create a solution that helps reduce food waste in households,
-              restaurants, or supermarkets. This could include a smart inventory
-              management system, recipes for using leftover ingredients, or a
-              platform to connect surplus food with those in need.
+              Offer expert guidance and tailored solutions to businesses or
+              individuals, driving growth and operational excellence.
             </p>
           </div>
+
           <div className="software-content" onClick={handleSoftwareView}>
-            <h1 className="software-content-title">
-              Eco-friendly Smart Home Automation
-            </h1>
+            <h1 className="software-content-title">Patient Care</h1>
             <p className="software-content-description projects-close">
-              Design a smart home automation system that minimizes energy
-              consumption and promotes sustainable practices. The system should
-              intelligently control appliances, lighting, and temperature based
-              on occupancy and user preferences{" "}
+              Develop technology-driven solutions to enhance patient care,
+              improve medical assistance, and ensure better health outcomes.
             </p>
           </div>
+
           <div className="software-content" onClick={handleSoftwareView}>
-            <h1 className="software-content-title">
-              Redefining Education through Technology
-            </h1>
+            <h1 className="software-content-title">Cost Reduction</h1>
             <p className="software-content-description projects-close">
-              Create an innovative educational platform that offers personalized
-              learning experiences, interactive content, and tools for teachers
-              to engage students in virtual or hybrid classrooms{" "}
+              Optimize business processes and resource allocation to reduce
+              expenses while maintaining efficiency and quality.
             </p>
           </div>
+
           <div className="software-content" onClick={handleSoftwareView}>
-            <h1 className="software-content-title">
-              Mental Health and Wellness Suppor
-            </h1>
+            <h1 className="software-content-title">Skill Development</h1>
             <p className="software-content-description projects-close">
-              Develop a mental health app that provides users with resources for
-              stress management, mindfulness exercises, and access to virtual
-              therapy sessions to promote overall well-being.
+              Create learning platforms or tools that empower individuals to
+              acquire new skills, enhancing employability and career growth.
             </p>
           </div>
+
           <div className="software-content" onClick={handleSoftwareView}>
-            <h1 className="software-content-title">
-              Cybersecurity and Data Privacy for IoT Devices
-            </h1>
+            <h1 className="software-content-title">Sustainability</h1>
             <p className="software-content-description projects-close">
-              Build a security platform that safeguards Internet of Things (IoT)
-              devices from cyber threats, ensuring data privacy and secure
-              communication between devices and networks.
+              Design eco-friendly solutions that promote responsible
+              consumption, reduce environmental impact, and encourage green
+              practices.
             </p>
           </div>
+
           <div className="software-content" onClick={handleSoftwareView}>
-            <h1 className="software-content-title">Voice Prescription</h1>
+            <h1 className="software-content-title">Resource Management</h1>
             <p className="software-content-description projects-close">
-              Design an app to write formatted prescriptions based on dictation
-              from doctor. Refer attachment for more detail. The app should
-              provide facility to sign the prescription and also send to the
-              patient directly on his phone and email id. The method of storing
-              the medical records (EHR) should follow relevant compliance laws
-              like HIPAA
+              Develop systems that optimize the use of resources, ensuring
+              efficiency, cost-effectiveness, and minimal waste.
             </p>
           </div>
+
           <div className="software-content" onClick={handleSoftwareView}>
-            <h1 className="software-content-title">
-              AI based crop identification mobile app
-            </h1>
-            <p className="software-content-description projects-close h-[35vh]">
-              Develop a mobile application that can identify crop using only
-              field photo of a crop. The team must target at-least 10 different
-              crops for demonstration. The application will allow the user to
-              take photos and automatically identify the crop. The photo and
-              crop information along with geolocation information should be
-              stored in an internal database which can be exported/emailed.
+            <h1 className="software-content-title">Urban Planning</h1>
+            <p className="software-content-description projects-close">
+              Innovate smart city solutions that enhance infrastructure,
+              mobility, and sustainability for efficient urban living.
             </p>
           </div>
+
           <div className="software-content" onClick={handleSoftwareView}>
-            <h1 className="software-content-title">
-              Portable RCS Measuring Device
-            </h1>
+            <h1 className="software-content-title">Social Responsibility</h1>
             <p className="software-content-description projects-close">
-              Which is capable of independent operation and deployable from
-              multiple platforms (Ship, boat, UAV, etc)
+              Promote ethical and community-driven initiatives that address
+              social issues and contribute to positive societal impact.
             </p>
           </div>
+
           <div className="software-content" onClick={handleSoftwareView}>
-            <h1 className="software-content-title">
-              Redefining Education through Technology
-            </h1>
+            <h1 className="software-content-title">Accessibility</h1>
             <p className="software-content-description projects-close">
-              Create an innovative educational platform that offers personalized
-              learning experiences, interactive content, and tools for teachers
-              to engage students in virtual or hybrid classrooms{" "}
+              Design inclusive solutions that ensure equal access to technology,
+              services, and information for people of all abilities.
             </p>
           </div>
         </div>

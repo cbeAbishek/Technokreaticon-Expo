@@ -45,7 +45,7 @@ const about = () => {
               alt="srm logo"
               className="about-srm-logo"
             />
-            Foundation Day Celebration
+            About Techno kreatiCon
             <img
               src="/images/srmvec.webp"
               alt="srmvec logo"
@@ -53,16 +53,18 @@ const about = () => {
             />
           </div>
           <div className="foundation-description" id="about-left">
-            SRM Valliammai Engineering college (An Autonomous Institution) was
-            established on 9th September, 1999. The SRM Valliammai Engineering
-            College is a part of the SRM Group of Educational Institutions,
-            sponsored by the Valliammai Society. The Valliammai Society was
-            founded by Dr.T.R.Paarivendhar , a well-known educationist, in the
-            name of his mother Tmt. R.Valliammai, under whose care and guidance
-            he attained greater heights in his personal development and whose
-            ideals continue to inspire him. On this auspicious moment we
-            celebrate the 25th Foundation Day of SRM Valliammai Engineering
-            college by organising Hackathon on 8th September, 2023.
+            Techno Kreaticon Phase 1 was an exciting platform where young
+            innovators presented their groundbreaking technological ideas.
+            Hosted at PPG Institute of Technology, Coimbatore, the event brought
+            together creative minds from various disciplines to pitch their
+            projects. Participants showcased solutions that addressed real-world
+            problems, which were evaluated by a panel of industry experts. With
+            a focus on innovation, feasibility, and market potential, the event
+            fostered technological advancement and entrepreneurial thinking. The
+            competition maintained transparency, with live updates ensuring fair
+            judgment. Techno Kreaticon Phase 1 successfully inspired students to
+            push the boundaries of technology and prepare for
+            future innovations.
           </div>
         </div>
 
@@ -74,18 +76,22 @@ const about = () => {
           >
             <img
               className="about-srmvec-logo"
-              src="/images/srmvec.webp"
+              src="/images/srm.webp"
               alt="srmvec logo"
             />
-            About Srmvec
+            About PPG-IT
           </div>
           <div className="about-srmvec-description" id="about-right">
-            SRM Valliammai Engineering college (An Autonomous Institution) was
-            established on September 9, 1999 and presently conducts 11 Under
-            graduate courses and 8 Post graduate courses. The college has highly
-            qualified, dynamic and dedicated renowned faculty both from academic
-            and industrial background. The serene atmosphere with the
-            surrounding greenery is conductive to the pursuit of higher studies.
+            PPG Institute of Technology (PPGIT), established in 2008 under the
+            P. Perichi Gounder Memorial Education and Charitable Trust (PPG
+            Trust), is one of the leading autonomous engineering colleges in
+            Coimbatore, Tamil Nadu. Founded by Dr. L.P. Thangavelu, M.S., the
+            institution is dedicated to imparting value-based education.
+            Approved by AICTE, PPGIT provides a holistic learning environment
+            enriched with ethics and Indian cultural values. With
+            state-of-the-art infrastructure and excellent facilities, it
+            continues to shape future professionals through innovation and
+            academic excellence.
           </div>
         </div>
         <div className="csi">
@@ -96,19 +102,23 @@ const about = () => {
           >
             <img
               className="about-csi-logo"
-              src="/images/csi1.webp"
+              src="/images/diamond.webp"
               alt="csi logo"
             />
-            About csi
+            About CSE
           </div>
           <div className="about-csi-description" id="about-left">
-            Computer Society of India is a body of computer professionals in
-            India. It was started on 6 March 1965 by a few computer
-            professionals and has now grown to be the national body representing
-            computer professionals. It has 72 chapters across India, 511 student
-            branches, and 100,000 members. The society promotes knowledge
-            sharing,and professional development in the field of computer
-            science.
+            The Department of Computer Science and Engineering (CSE) at PPG
+            Institute of Technology is dedicated to providing high-quality
+            education, fostering research, and nurturing innovation in computing
+            technologies. With a cutting-edge curriculum, modern laboratories,
+            and experienced faculty, the department equips students with the
+            skills required for the evolving IT industry. The program emphasizes
+            software development, artificial intelligence, cybersecurity, and
+            data science, ensuring holistic technical expertise. Through
+            industry collaborations, hands-on projects, and research
+            opportunities, the CSE department prepares students to excel in
+            global technological advancements.
           </div>
         </div>
         <div className="whitehatians">
@@ -119,19 +129,22 @@ const about = () => {
           >
             <img
               className="about-whitehatians-logo"
-              src="/images/whitehatians.webp"
+              src="/images/diamond.webp"
               alt="whitehatians logo"
             />
-            About whitehatians
+            About CyberZen
           </div>
           <div className="about-whitehatians-description" id="about-right">
-            WhiteHatians Cyber Security club. The main goal of this club is to
-            provide a technical opportunity for students to broaden their
-            knowledge in the area of Cyber Security and to interact with other
-            students who have a shared interest in cyber security. Through the
-            club’s activities, members can also network with professionals in
-            the field, gain hands-on experience, and prepare for careers in
-            cyber security.
+            The CyberZen Club at PPG Institute of Technology is a dynamic
+            student-driven community dedicated to fostering innovation,
+            technical expertise, and cybersecurity awareness. The club actively
+            organizes Techno Kreaticon, a premier event that provides a platform
+            for students to showcase their technological innovations and
+            entrepreneurial ideas. With a strong focus on coding, ethical
+            hacking, AI, and emerging technologies, CyberZen conducts workshops,
+            hackathons, and competitions to enhance technical skills. By
+            bridging academia and industry, the club empowers students to excel
+            in the evolving digital landscape.
           </div>
         </div>
       </div>
