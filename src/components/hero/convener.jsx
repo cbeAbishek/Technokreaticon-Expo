@@ -16,7 +16,7 @@ const convener = () => {
               src="/images/hod.png"
               alt="Senthil Kumar - HOD Cyber Security"
             />
-            <h1 className="convener-name"> Porf j. Karthick Mylivahanam</h1>
+            <h1 className="convener-name"> Prof J. Karthick Myilvahanan</h1>
 
             <h1 className="convener-position">
               Head Of Department - CSE{" "}

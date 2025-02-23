@@ -12,6 +12,7 @@ import { ReactComponent as Info } from "../../assets/info.svg";
 import { ReactComponent as Location } from "../../assets/location.svg";
 import { ReactComponent as ArrowRightWhite } from "../../assets/arrow-right-white.svg";
 import { ReactComponent as ArrowRightBlack } from "../../assets/arrow-right-black.svg";
+import Chatbot from "./chatbot";
 
 const hero = () => {
   const handleRegisterClick = () => {
@@ -91,6 +92,7 @@ const hero = () => {
   return (
     <React.Fragment>
       <div className="parent_hero">
+        <Chatbot/>
         {/* <div className="progress_bar"></div> */}
         <div className=" tag-hero-mobile">
           <img
