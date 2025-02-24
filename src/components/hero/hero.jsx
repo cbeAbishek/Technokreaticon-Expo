@@ -220,7 +220,7 @@ const hero = () => {
             {/* -------------------------- Column 2 * ---------------------------------- */}
             <div className="col2 animated-div">
               <h3 className="text4">
-                Information Details <Info className="info-icon" />
+              Explore Further <Info className="info-icon" />
               </h3>
               {/* /about */}
               <p className="text5" onClick={() => handleCardClicks("/about")}>
