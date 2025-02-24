@@ -102,13 +102,24 @@ const hero = () => {
             width="60vw"
             className="hero-srm-logo"
           />
-          <div className="tag">PPG Institute of Technology</div>
+          <div className="flex flex-col">
+          <div className="tag">
+            PPG Institute of Technology 
+            Deparment of CSE
+          </div>
+
+          {/* <div className="tag">
+         
+          </div> */}
+          </div>
+
           <img
             src="/images/srmvec.webp"
             alt="srmvec logo"
-            width="60vw"
+            width="90vw"
             className="hero-srmvec-logo"
-          />
+            />
+            
         </div>
 
         {/* ----------------------- Page 1 ------------------------- */}
