@@ -78,7 +78,7 @@ const hero = () => {
 
   const textArray = [
     "PPG Institute of Technology Department of CSE",
-    "Welcome to CyberZen's Project Expo Event project pitch Deck",
+    "Welcome to CyberZen's grand Event project pitch Deck",
     "Welcome to PPG-IT",
     "Hey, folks!! Here is your platform to showcase your talent",
     "Unleash Innovation | Compete | Inspire",
