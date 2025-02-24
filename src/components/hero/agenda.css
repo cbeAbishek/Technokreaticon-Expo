@@ -133,7 +133,8 @@
   );
   border-image-slice: 1;
   font-family: raleway;
-  font-size: 2vw;
+  
+  font-size: 1.3vw;
   font-weight: 600;
   
   position: relative;
