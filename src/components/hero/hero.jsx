@@ -93,7 +93,7 @@ const hero = () => {
   return (
     <React.Fragment>
       <div className="parent_hero">
-        <Chatbot/>
+        <Chatbot />
         {/* <div className="progress_bar"></div> */}
         <div className=" tag-hero-mobile">
           <img
@@ -117,12 +117,12 @@ const hero = () => {
             <div className="curve"></div>
 
             <div className="title1">
-              <span className="hackathon"> {"Techno-KreatiCon"}</span>
+              <span className="hackathon"> {"Techno KreatiCon"}</span>
               <br />
               {/* <p className="tag1"> A National Level 24 Hour Hackathon</p> */}
               {/* <span className="hackathon">Hackathon</span> */}
               <p className="description">
-              <span>National  Level Project Expo </span>
+                <span>National Level Project Expo </span>
                 showcasing innovative solutions
                 <br /> and tech talents from across the country
               </p>
@@ -160,7 +160,7 @@ const hero = () => {
                 </div>
               </div>
               <h2 className="countdown-text">
-              Join us for Techno Kreaticon Phase 2
+                Join us for Techno Kreaticon Phase 2
               </h2>
             </div>
           </div>
@@ -178,7 +178,7 @@ const hero = () => {
                 </div>
                 <Calender className="calender-icon" />
               </h3>
-              
+
               <p
                 className="text2"
                 onClick={() => handleCardClicks("/guidelines")}
@@ -186,7 +186,7 @@ const hero = () => {
                 Guidelines <ArrowRightWhite className="arrow-right-icon" />
               </p>
               {/* /events */}
-              <p className="text3" onClick={() => handleCardClicks("/events")}> 
+              <p className="text3" onClick={() => handleCardClicks("/events")}>
                 Events <ArrowRightWhite className="arrow-right-icon" />
               </p>
             </div>
@@ -213,10 +213,11 @@ const hero = () => {
               </div>
               {/* /set1 */}
               <p className="text8" onClick={() => handleCardClicks("/set1")}>
-              Tech Innovation<ArrowRightBlack className="arrow-right-icon" />
+                Tech Innovation
+                <ArrowRightBlack className="arrow-right-icon" />
               </p>
               <p className="text9" onClick={() => handleCardClicks("/set2")}>
-              Solutions Startup{" "}
+                Solutions Startup{" "}
                 <ArrowRightBlack className="arrow-right-icon" />
               </p>
             </div>
@@ -234,9 +235,11 @@ const hero = () => {
                 <p className="text-white pt-[2vh] text-[1vw] venue-text-mobile">
                   PPG Insitute of Technology, Coimbatore
                 </p>
-                  <p className="text-white  text-[0.8vw] ">
-                  RATHNAGIRI ROAD, Viswapuram, Saravanampatti, Coimbatore, Tamil Nadu 641035
-                  </p>
+                <p className="text-white text-[3vw] sm:text-[2vw] md:text-[1.2vw] lg:text-[0.8vw]">
+                  RATHNAGIRI ROAD, Viswapuram, Saravanampatti, Coimbatore, Tamil
+                  Nadu 641035
+                </p>
+
                 <div className="round"></div>
               </div>
             </div>
@@ -257,10 +260,10 @@ const hero = () => {
           </div>
         </section>
         {/* -------------------------- Page 2 -------------------------- */}
-        <VideoPlayer/>
+        <VideoPlayer />
       </div>
       <Agenda />
-      
+
       <div className="bg-sep"></div>
       <Schedule />
       <div className="bg-sep"></div>

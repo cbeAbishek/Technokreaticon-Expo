@@ -195,7 +195,7 @@ const contact = () => {
                 <div className="contact-card-front">
                   <img
                     src="/images/sarran.webp "
-                    alt="Kishore President - Whitehatians"
+                    alt="Saaran head coordinator"
                   />
                   <div className="contact-card-details">
                     <h1 className="contact-card-name">Sarran</h1>
