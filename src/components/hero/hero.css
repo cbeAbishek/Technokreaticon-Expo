@@ -56,6 +56,11 @@
   }
 }
 
+@keyframes fadeIn {
+  0% { opacity: 0; transform: translateY(10px); }
+  100% { opacity: 1; transform: translateY(0px); }
+}
+
 .parent_hero .tag {
   position: relative;
   font-family: poppins;
@@ -70,6 +75,8 @@
   font-weight: 900;
   display: flex;
   gap: 0.3vw;
+  transition: opacity 0.5s ease-in-out;
+
   @media all and (max-width: 768px) and (max-height: 1024px) and (orientation: portrait) {
     font-size: 4vw;
     padding: 0.2vh 1vw;
@@ -80,6 +87,12 @@
     gap: 1vw;
   }
 }
+
+/* Apply animation only when class is added */
+.parent_hero .tag.animated {
+  animation: fadeIn 0.8s ease-out;
+}
+
 .tag > div {
   display: flex;
   align-items: flex-start;

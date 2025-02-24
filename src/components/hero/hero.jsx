@@ -76,6 +76,33 @@ const hero = () => {
     });
   };
 
+  const textArray = [
+    "PPG Institute of Technology Department of CSE",
+    "Welcome to CyberZen's Project Expo Event project pitch Deck",
+    "Welcome to PPG-IT",
+    "Hey, folks!! Here is your platform to showcase your talent",
+    "Unleash Innovation | Compete | Inspire",
+    "Code. Create. Conquer!",
+    "Think Big, Build Bigger!",
+  ];
+
+  const [currentText, setCurrentText] = useState(textArray[0]);
+  const [animate, setAnimate] = useState(false);
+  let index = 0;
+
+  useEffect(() => {
+    const interval = setInterval(() => {
+      setAnimate(false); // Apply animation
+      setTimeout(() => {
+        index = (index + 1) % textArray.length;
+        setCurrentText(textArray[index]); // Change text
+        setAnimate(true); // Remove animation class after effect completes
+      }, 900); // Wait for animation before removing class
+    }, 3000); // Change text every 3s
+
+    return () => clearInterval(interval);
+  }, []);
+
   useEffect(() => {
     const tilt = VanillaTilt.init(
       document.querySelectorAll(".anim"),
@@ -102,24 +129,13 @@ const hero = () => {
             width="60vw"
             className="hero-srm-logo"
           />
-          <div className="flex flex-col">
-          <div className="tag">
-            PPG Institute of Technology 
-            Deparment of CSE
-          </div>
-
-          {/* <div className="tag">
-         
-          </div> */}
-          </div>
-
+            <div className={`parent_hero tag ${animate ? "animated" : ""}`}>{currentText}</div>
           <img
             src="/images/srmvec.webp"
             alt="srmvec logo"
             width="90vw"
             className="hero-srmvec-logo"
-            />
-            
+          />
         </div>
 
         {/* ----------------------- Page 1 ------------------------- */}
