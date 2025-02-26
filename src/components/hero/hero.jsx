@@ -149,9 +149,9 @@ const hero = () => {
               {/* <p className="tag1"> A National Level 24 Hour Hackathon</p> */}
               {/* <span className="hackathon">Hackathon</span> */}
               <p className="description">
-                <span>National Level Project Expo </span>
+                <span>National Level Project pitch dick </span>
                 showcasing innovative solutions
-                <br /> and tech talents from across the country
+                <br /> and tech talents and ideas from across the country
               </p>
             </div>
 
