@@ -227,9 +227,9 @@
 .register_now {
   margin-top: 5vh;
   position: relative;
-  padding: 0.5vh 0.5vw;
+  padding: 0.3vh 0.3vw;
   background-color: black;
-  border-radius: 2vw;
+  border-radius: 1vw;
   cursor: pointer;
   color: white;
   display: flex;
