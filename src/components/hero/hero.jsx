@@ -260,11 +260,10 @@ const hero = () => {
               </h3>
               <div className="flex flex-col ">
                 <p className="text-white pt-[2vh] text-[1vw] venue-text-mobile">
-                  PPG Insitute of Technology, Coimbatore
+                PPG Institute of Technology, Coimbatore
                 </p>
                 <p className="text-white text-[3vw] sm:text-[2vw] md:text-[1.2vw] lg:text-[0.8vw]">
-                  RATHNAGIRI ROAD, Viswapuram, Saravanampatti, Coimbatore, Tamil
-                  Nadu 641035
+                  Villakuruchi ROAD, Viswasapuram, Saravanampatti, Coimbatore, TamilNadu 641035
                 </p>
 
                 <div className="round"></div>
