@@ -4,7 +4,7 @@ import Judge3 from "./Judge3";
 import { set1, set2, set3, set4 } from "./Details";
 const judges = () => {
   useEffect(() => {
-    document.title = "Judge Panel | Hack a Tank";
+    document.title = "Judge Panel";
   },[]);
 
 
@@ -18,13 +18,19 @@ const judges = () => {
 
       </section>
       <div className="title">
-        <h1>judge panel</h1>
+        <h1>CoMMing Soon</h1>
+      </div>
+      <div className="title">
+        <h1>Chief Guest</h1>
       </div>
       <section className="judges">
       <Judge3 mem = {set1} />
+      <div className="title">
+        <h1>judge panel</h1>
+      </div>
       <Judge3 mem = {set2} />
-      <Judge3 mem = {set3} />
-      <Judge3 mem = {set4} />
+      {/* <Judge3 mem = {set3} />
+      <Judge3 mem = {set4} /> */}
       </section>
     </div>
   );

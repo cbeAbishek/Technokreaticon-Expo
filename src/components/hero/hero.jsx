@@ -228,7 +228,7 @@ const hero = () => {
                 <ArrowRightWhite className="arrow-right-icon" />
               </p>
               {/* /judges */}
-              <p className="text6" onClick={() => handleCardClicks("/ppg")}>
+              <p className="text6" onClick={() => handleCardClicks("/judges")}>
                 Judge Panel
                 <ArrowRightWhite className="arrow-right-icon" />
               </p>
