@@ -1,34 +1,34 @@
 export const set1 = [
   {
-    Img: "/images/judgeP/judge.jpg",
-    name: "Name 1",
-    desig: "Company Name",
-    org: "Position",
-    nameStyle: { right: "-2vw", top: "5vh" },
+    Img: "/images/judgeP/akashy 1.jpg",
+    name: "Mr.Akshay Thangavel",
+    desig: "PPG Institute of Technology",
+    org: "Vice chairman",
+    nameStyle: { right: "-12vw", top: "25vh" },
   },
   {
     Img: "/images/judgeP/judge.jpg",
     name: "Name 2",
     desig: "Company Name",
     org: "Position",
-    nameStyle: { right: "-4vw", top: "9vh" },
+    nameStyle: { right: "-2.3vw", top: "7vh" },
   },
   {
     Img: "/images/judgeP/judge.jpg",
     name: "Name 3",
     desig: "Company Name",
     org: "Position",
-    nameStyle: { right: "-4vw", top: "9vh" },
+    nameStyle: {  right: "-2.3vw", top: "7vh" },
   },
 ];
 
 export const set2 = [
   {
-    Img: "/images/judgeP/judge.jpg",
-    name: "Name 4",
-    desig: "Company Name",
-    org: "Position",
-    nameStyle: { right: "-3.5vw", top: "9vh", color: "rgba(0, 0, 0, 0.8)" },
+    Img: "/images/judgeP/vignesh.jpg",
+    name: "Vigneshwaran. VT",
+    desig: "Nanda Info Tech",
+    org: "Founder & CEO",
+    nameStyle: { right: "-9vw", top: "19vh", color: "rgba(0, 0, 0, 0.8)" },
   },
   {
     Img: "/images/judgeP/judge.jpg",
@@ -42,7 +42,7 @@ export const set2 = [
     name: "Name 6",
     desig: "Company Name",
     org: "Position",
-    nameStyle: { right: "-5vw", top: "10vh", color: "rgba(0, 0, 0, 0.8)" },
+    nameStyle: {  right: "-2.3vw", top: "7vh", color: "rgba(0, 0, 0, 0.8)" },
   },
 ];
 
