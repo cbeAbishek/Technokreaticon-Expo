@@ -18,7 +18,7 @@ const judges = () => {
 
       </section>
       <div className="title">
-        <h1>CoMMing Soon</h1>
+        <h1>Comming Soon</h1>
       </div>
       <div className="title">
         <h1>Chief Guest</h1>

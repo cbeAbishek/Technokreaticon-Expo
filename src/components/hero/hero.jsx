@@ -22,7 +22,7 @@ const hero = () => {
       action: "click",
       label: "register",
     });
-    window.open("#");
+    window.open("https://ppgit-cse.formaloo.co/projectpitchdeck");
   };
   const handleCardClicks = (card) => {
     ReactGA.event({

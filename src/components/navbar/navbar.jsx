@@ -53,7 +53,7 @@ const Navbar = () => {
       action: "click",
       label: "register",
     });
-    window.open("#");
+    window.open("https://ppgit-cse.formaloo.co/projectpitchdeck");
   };
   const handleScroll = (id) => {
     ReactGA.event({
@@ -177,7 +177,7 @@ const Navbar = () => {
             </div>
             <div className="last-mobile">
               <h2 className="register-mobile">
-                <a href="#" target="_blank">
+                <a href="https://ppgit-cse.formaloo.co/projectpitchdeck" target="_blank">
                   Register
                 </a>
               </h2>
