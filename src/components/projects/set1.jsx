@@ -21,7 +21,7 @@ const set1 = () => {
   return (
     <React.Fragment>
       <div className="parent-software">
-        <h1 className="parent-software-title">Projects - Set 1</h1>
+        <h1 className="parent-software-title">Tech Innovation</h1>
         <p className="projects-disclaimer">
           OWN/UNIQUE PROBLEM STATEMENTS ARE ALSO WELCOMED - Kindly intimate when
           speaking with registration team
@@ -30,100 +30,131 @@ const set1 = () => {
           <div className="software-content" onClick={handleSoftwareView}>
             <h1 className="software-content-title">Healthcare/Medical</h1>
             <p className="software-content-description projects-close">
-              Innovate solutions in healthcare through smart diagnostics, remote
-              patient monitoring, and AI-driven medical assistance to improve
-              patient outcomes.
+              The healthcare industry faces significant challenges in providing
+              accessible, personalized, and efficient medical services,
+              especially in remote or underserved areas. Traditional healthcare
+              systems are often burdened by high costs, long wait times, and
+              limited access to specialists.
             </p>
           </div>
 
           <div className="software-content" onClick={handleSoftwareView}>
             <h1 className="software-content-title">Education/Learning</h1>
             <p className="software-content-description projects-close">
-              Develop interactive learning platforms, AI tutors, and smart
-              content delivery systems to enhance personalized and accessible
-              education.
+              The current education system struggles to deliver personalized and
+              engaging learning experiences, particularly in underserved
+              regions. Traditional teaching methods often fail to cater to
+              individual learning paces and styles, leading to disengagement and
+              knowledge gap
             </p>
           </div>
 
           <div className="software-content" onClick={handleSoftwareView}>
             <h1 className="software-content-title">Environmental/Green</h1>
             <p className="software-content-description projects-close">
-              Create eco-friendly technologies to combat pollution, optimize
-              energy consumption, and promote sustainability through smart
-              solutions.
+              Environmental degradation, pollution, and inefficient energy
+              consumption are pressing global issues. Current solutions often
+              lack scalability, affordability, and integration with modern
+              technology, making it difficult to achieve widespread
+              sustainability.
             </p>
           </div>
 
           <div className="software-content" onClick={handleSoftwareView}>
             <h1 className="software-content-title">Urban/Infrastructure</h1>
             <p className="software-content-description projects-close">
-              Design smart city solutions, automated traffic management, and
-              sustainable urban infrastructure for enhanced city planning.
+              Rapid urbanization has led to overcrowded cities, inefficient
+              resource management, and deteriorating infrastructure. Traditional
+              urban planning methods are unable to keep pace with the growing
+              demands of modern cities, resulting in traffic congestion, energy
+              waste, and reduced quality of life.
             </p>
           </div>
 
           <div className="software-content" onClick={handleSoftwareView}>
             <h1 className="software-content-title">Social/Community</h1>
             <p className="software-content-description projects-close">
-              Build digital platforms to foster community engagement, social
-              well-being, and inclusivity in both urban and rural settings.
+              Communities often lack effective platforms to connect,
+              collaborate, and address shared challenges. This disconnect
+              hinders collective problem-solving, resource sharing, and social
+              cohesion, particularly in diverse or geographically dispersed
+              populations.
             </p>
           </div>
 
           <div className="software-content" onClick={handleSoftwareView}>
             <h1 className="software-content-title">Artificial Intelligence</h1>
             <p className="software-content-description projects-close">
-              Explore AI-driven applications for automation, predictive
-              analytics, and deep learning in various industries.
-            </p>
-          </div>
-
-          <div className="software-content" onClick={handleSoftwareView}>
-            <h1 className="software-content-title">Machine Learning</h1>
-            <p className="software-content-description projects-close">
-              Implement machine learning algorithms for data-driven
-              decision-making, anomaly detection, and personalized
-              recommendations.
+              While AI and machine learning hold immense potential, many
+              industries struggle to implement these technologies effectively
+              due to high costs, complexity, and lack of expertise. This limits
+              their ability to innovate and solve complex problems.
             </p>
           </div>
 
           <div className="software-content" onClick={handleSoftwareView}>
             <h1 className="software-content-title">IoT (Internet of Things)</h1>
             <p className="software-content-description projects-close">
-              Develop IoT-based smart systems for home automation, industrial
-              monitoring, and real-time data analytics.
+              The increasing complexity of modern systems and processes often
+              leads to inefficiencies, data silos, and poor user experiences.
+              Many industries lack seamless connectivity and real-time data
+              access, hindering productivity and innovation.
+            </p>
+          </div>
+
+          <div className="software-content" onClick={handleSoftwareView}>
+            <h1 className="software-content-title">Machine Learning</h1>
+            <p className="software-content-description projects-close">
+              Many businesses struggle to leverage machine learning (ML)
+              effectively due to high implementation costs, lack of expertise,
+              and the complexity of integrating ML into existing systems. This
+              limits their ability to harness data-driven insights, automate
+              processes, and stay competitive in rapidly evolving markets.
             </p>
           </div>
 
           <div className="software-content" onClick={handleSoftwareView}>
             <h1 className="software-content-title">Mobile Applications</h1>
             <p className="software-content-description projects-close">
-              Create mobile solutions for on-the-go productivity, healthcare,
-              education, and entertainment with seamless user experience.
+              Many businesses struggle to develop apps that meet user
+              expectations for accessibility, performance, and engagement.
+              Poorly designed apps often lead to low user retention, negative
+              brand perception, and missed opportunities for customer
+              engagement.
             </p>
           </div>
 
           <div className="software-content" onClick={handleSoftwareView}>
             <h1 className="software-content-title">Telemedicine</h1>
             <p className="software-content-description projects-close">
-              Bridge the healthcare gap by developing telemedicine platforms for
-              remote consultation, diagnosis, and treatment.
+              Access to quality healthcare remains a significant challenge,
+              especially in remote and underserved areas. Traditional healthcare
+              systems are often plagued by long wait times, high costs, and
+              limited availability of specialists. This results in delayed
+              diagnoses, inadequate treatment, and poor patient outcomes.
             </p>
           </div>
 
           <div className="software-content" onClick={handleSoftwareView}>
             <h1 className="software-content-title">Wearable Technology</h1>
             <p className="software-content-description projects-close">
-              Innovate wearable devices for health tracking, real-time
-              monitoring, and fitness enhancement through smart sensors.
+              The healthcare industry faces challenges in providing continuous,
+              real-time health monitoring solutions that empower individuals to
+              take proactive control of their well-being. Traditional health
+              monitoring methods are often reactive, intermittent, and lack
+              personalization, leading to missed opportunities for early
+              intervention and improved health outcomes.
             </p>
           </div>
 
           <div className="software-content" onClick={handleSoftwareView}>
             <h1 className="software-content-title">Smart Systems</h1>
             <p className="software-content-description projects-close">
-              Build intelligent automation systems for homes, industries, and
-              urban development with AI and IoT integration.
+              Many industries face inefficiencies in resource management, energy
+              consumption, and operational processes due to outdated systems and
+              lack of real-time data integration. These inefficiencies lead to
+              increased costs, wasted resources, and environmental harm,
+              hindering both profitability and sustainability goals.
             </p>
           </div>
 
@@ -132,8 +163,12 @@ const set1 = () => {
               Virtual/Digital Platforms
             </h1>
             <p className="software-content-description projects-close">
-              Develop digital ecosystems for business, education, and social
-              engagement with immersive and interactive experiences.
+              In an increasingly digital world, businesses and communities
+              struggle to create meaningful engagement and collaboration through
+              traditional platforms. Existing solutions often lack
+              interactivity, personalization, and scalability, leading to
+              disengagement, inefficiencies, and missed opportunities for
+              growth.
             </p>
           </div>
         </div>

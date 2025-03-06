@@ -36,11 +36,14 @@ const contact = () => {
             <div className="contact-container">
               <div className="contact-card">
                 <div className="contact-card-front">
-                  <img src="/images/abi profil 1.webp" alt="shree - president CSI" />
+                  <img
+                    src="/images/abi profil 1.webp"
+                    alt="shree - president CSI"
+                  />
                   <div className="contact-card-details">
                     <h1 className="contact-card-name">Abishek G</h1>
                     <h2 className="contact-card-description">
-                      Overall Organizer  
+                      Overall Organizer
                     </h2>
                     <h3
                       className="contact-card-options"
@@ -121,7 +124,9 @@ const contact = () => {
                         onClick={() => {
                           handleLaunch("contact-card-launch3");
                           setTimeout(() => {
-                            window.open("https://www.instagram.com/smakabhishek?igsh=MTR0Y3lhaW9mNWx1bw==");
+                            window.open(
+                              "https://www.instagram.com/smakabhishek?igsh=MTR0Y3lhaW9mNWx1bw=="
+                            );
                           }, 2000);
                         }}
                       >
@@ -200,7 +205,7 @@ const contact = () => {
                   <div className="contact-card-details">
                     <h1 className="contact-card-name">Sarran</h1>
                     <h2 className="contact-card-description">
-                    Head Coordinator
+                      Head Coordinator
                     </h2>
                     <h3
                       className="contact-card-options"
@@ -351,6 +356,7 @@ const contact = () => {
             </div>
           </div>
         </div>
+        
       </div>
     </React.Fragment>
   );
