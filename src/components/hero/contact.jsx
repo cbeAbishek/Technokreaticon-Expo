@@ -356,7 +356,86 @@ const contact = () => {
             </div>
           </div>
         </div>
-        
+        <br /> <br />
+        <div className="parent-container">
+          {/* -----------------------------------------Contact 3 Aravind ------------------------------------------- */}
+          <div>
+            <div className="contact-container">
+              <div className="contact-card">
+                <div className="contact-card-front">
+                  <img
+                    src="/images/Aravind.jpg"
+                    alt="shree - president CSI"
+                  />
+                  <div className="contact-card-details">
+                    <h1 className="contact-card-name">Aravind</h1>
+                    <h2 className="contact-card-description">
+                      Treasures Management
+                    </h2>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          {/* -----------------------------------------Contact 4 Shiva Prakash and Abinesh------------------------------------------- */}
+          <div>
+            <div className="contact-container">
+              <div className="contact-card1">
+                <div className="contact-card-front">
+                  <img
+                    src="/images/shiva.jpg "
+                    alt="Saaran head coordinator"
+                  />
+                  <div className="contact-card-details">
+                    <h1 className="contact-card-name">ShivaPrakash 
+                      and <br />Abinesh</h1>
+                    <h2 className="contact-card-description">
+                    Execution, Coordination Hospitality
+                    </h2>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <br /> <br />
+        <div className="parent-container">
+          {/* -----------------------------------------Contact 1 Sandiya and krisha ------------------------------------------- */}
+          <div>
+            <div className="contact-container">
+              <div className="contact-card">
+                <div className="contact-card-front">
+                  <img src="/images/lead.jpg" alt="shree - president CSI" />
+                  <div className="contact-card-details">
+                    <h1 className="contact-card-name">Shandiya <br />and <br />Krisha</h1>
+                    <h2 className="contact-card-description">
+                      Lead Source management
+                    </h2>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          {/* -----------------------------------------Contact 2 Nithiya and Vishnavi------------------------------------------- */}
+          <div>
+            <div className="contact-container">
+              <div className="contact-card1">
+                <div className="contact-card-front">
+                  <img
+                    src="/images/vishnavi.jpg"
+                    alt="Saaran head coordinator"
+                  />
+                  <div className="contact-card-details">
+                    <h1 className="contact-card-name">Vishnavi <br />and <br /> NithiyaShree</h1>
+                    <h2 className="contact-card-description">
+                      Head Marketing Coordinator
+                    </h2>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
     </React.Fragment>
   );

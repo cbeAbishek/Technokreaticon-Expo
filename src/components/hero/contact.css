@@ -118,12 +118,12 @@
   border-radius: 1vw;
   /* backdrop-filter: blur(0.5vw); */
   width: 100%;
-  bottom: -17vh;
+  bottom: -27vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding: 3vh 1vw;
+  padding: 4vh 1vw;
   transition: all 0.3s linear;
 }
 
@@ -132,6 +132,8 @@
 }
 .contact-card-front .contact-card-name {
   font-size: 2vw;
+  text-align: center;
+  line-height: 0.8;
   color: white;
   font-weight: 700;
   @media all and (max-width: 768px) and (max-height: 1024px) and (orientation: portrait) {
@@ -143,7 +145,7 @@
   color: white;
   text-align: center;
   position: relative;
-  padding-bottom: 2vh;
+  padding-bottom: 0vh;
   @media all and (max-width: 768px) and (max-height: 1024px) and (orientation: portrait) {
     font-size: 4vw;
   }
