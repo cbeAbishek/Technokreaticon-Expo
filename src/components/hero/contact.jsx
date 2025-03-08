@@ -407,7 +407,7 @@ const contact = () => {
                 <div className="contact-card-front">
                   <img src="/images/lead.jpg" alt="shree - president CSI" />
                   <div className="contact-card-details">
-                    <h1 className="contact-card-name">Shandiya <br />and <br />Krisha</h1>
+                    <h1 className="contact-card-name">Sandhiya <br />and <br />Krisha</h1>
                     <h2 className="contact-card-description">
                       Lead Source management
                     </h2>
@@ -426,7 +426,7 @@ const contact = () => {
                     alt="Saaran head coordinator"
                   />
                   <div className="contact-card-details">
-                    <h1 className="contact-card-name">Vishnavi <br />and <br /> NithiyaShree</h1>
+                    <h1 className="contact-card-name">Vaishnavi<br />and <br /> Nithyasree</h1>
                     <h2 className="contact-card-description">
                       Head Marketing Coordinator
                     </h2>
