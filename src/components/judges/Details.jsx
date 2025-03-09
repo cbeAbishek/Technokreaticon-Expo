@@ -31,11 +31,11 @@ export const set2 = [
     nameStyle: { right: "-9vw", top: "19vh", color: "rgba(0, 0, 0, 0.8)" },
   },
   {
-    Img: "/images/judgeP/judge.jpg",
-    name: "Name 5",
-    desig: "Company Name",
-    org: "Position",
-    nameStyle: { right: "-2.3vw", top: "7vh", color: "rgba(0, 0, 0, 0.8)" },
+    Img: "/images/judgeP/sangeeth.jpg",
+    name: "Sangeeth Kumar",
+    desig: "Sangeeth media",
+    org: "Founder & CEO",
+    nameStyle: { right: "-9vw", top: "19vh", color: "rgba(0, 0, 0, 0.8)" },
   },
   {
     Img: "/images/judgeP/judge.jpg",
