@@ -38,11 +38,11 @@ export const set2 = [
     nameStyle: { right: "-9vw", top: "19vh", color: "rgba(0, 0, 0, 0.8)" },
   },
   {
-    Img: "/images/judgeP/judge.jpg",
-    name: "Name 6",
-    desig: "Company Name",
-    org: "Position",
-    nameStyle: {  right: "-2.3vw", top: "7vh", color: "rgba(0, 0, 0, 0.8)" },
+    Img: "/images/judgeP/ngi.png",
+    name: "SUGANYA GLADIES",
+    desig: "NGI TBi",
+    org: "Outreach manager",
+    nameStyle: {  right: "-9vw", top: "19vh", color: "rgb(0, 0, 0, 0.8)" },
   },
 ];
 
