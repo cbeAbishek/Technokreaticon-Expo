@@ -37,7 +37,7 @@ const contact = () => {
               <div className="contact-card">
                 <div className="contact-card-front">
                   <img
-                    src="/images/abi profil 1.webp"
+                    src="/images/abi profil 2.webp"
                     alt="shree - president CSI"
                   />
                   <div className="contact-card-details">
@@ -199,7 +199,7 @@ const contact = () => {
               <div className="contact-card1">
                 <div className="contact-card-front">
                   <img
-                    src="/images/sarran.webp "
+                    src="/images/sarran2.webp "
                     alt="Saaran head coordinator"
                   />
                   <div className="contact-card-details">
@@ -364,7 +364,7 @@ const contact = () => {
               <div className="contact-card">
                 <div className="contact-card-front">
                   <img
-                    src="/images/Aravind.jpg"
+                    src="/images/aravind.webp"
                     alt="shree - president CSI"
                   />
                   <div className="contact-card-details">
@@ -383,7 +383,7 @@ const contact = () => {
               <div className="contact-card1">
                 <div className="contact-card-front">
                   <img
-                    src="/images/shiva.jpg "
+                    src="/images/shiva.webp "
                     alt="Saaran head coordinator"
                   />
                   <div className="contact-card-details">
