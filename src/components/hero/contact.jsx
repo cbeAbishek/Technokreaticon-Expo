@@ -405,7 +405,7 @@ const contact = () => {
             <div className="contact-container">
               <div className="contact-card">
                 <div className="contact-card-front">
-                  <img src="/images/lead.jpg" alt="shree - president CSI" />
+                  <img src="/images/lead1.jpg" alt="shree - president CSI" />
                   <div className="contact-card-details">
                     <h1 className="contact-card-name">Sandhiya <br />and <br />Krisha</h1>
                     <h2 className="contact-card-description">
@@ -422,7 +422,7 @@ const contact = () => {
               <div className="contact-card1">
                 <div className="contact-card-front">
                   <img
-                    src="/images/vishnavi.jpg"
+                    src="/images/vishnavi1.jpg"
                     alt="Saaran head coordinator"
                   />
                   <div className="contact-card-details">
