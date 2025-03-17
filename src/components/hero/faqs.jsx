@@ -97,8 +97,7 @@ const faqs = () => {
             <p className="faqs-content-description">
               The maximum team size allowed is 5 members. Teams can consist of
               students, professionals, or a mix of both, and cross-institutional
-              collaborations are permitted. Smaller teams or individual
-              participants are also welcome. It is important to ensure that all
+              collaborations are permitted. It is important to ensure that all
               team members contribute meaningfully to the project and
               presentation. Each team member must be registered under the same
               team name during the registration process.
@@ -217,11 +216,7 @@ const faqs = () => {
             <p className="faqs-content-description">
               Yes, you can update your project submission until the registration
               deadline (March 17, 2025). After completing the initial
-              registration, you will receive login credentials to access your
-              dashboard on the event portal. From there, you can upload revised
-              versions of your pitch deck, add new supporting materials, or
-              modify team details. Ensure that all updates are finalized before
-              the deadline, as no changes will be accepted afterward.
+              registration, you will receive an email with a link to access and you can communicate in Whatsapp group 
             </p>
           </div>
 

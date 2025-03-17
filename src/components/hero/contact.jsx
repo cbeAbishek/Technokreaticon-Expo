@@ -69,7 +69,7 @@ const contact = () => {
                           handleLaunch("contact-card-launch1");
                           setTimeout(() => {
                             window.open(
-                              "https://api.whatsapp.com/send?phone=9566372450"
+                              "https://api.whatsapp.com/send?phone=7904823782"
                             );
                           }, 2000);
                         }}
@@ -81,7 +81,7 @@ const contact = () => {
                             height: "35px",
                           }}
                         />
-                        +91 9566372450
+                        +917904823782
                         <span id="contact-card-launch1">
                           <RocketLaunchIcon
                             className="rocketLaunch"
